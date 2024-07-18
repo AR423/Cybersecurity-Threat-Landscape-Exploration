@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#homepage {
+    text-align: center;
+}
+
+#homepage ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#homepage li {
+    margin: 10px 0;
+}
+
+#homepage a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+#homepage a:hover {
+    text-decoration: underline;
+}
+
+#data-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}

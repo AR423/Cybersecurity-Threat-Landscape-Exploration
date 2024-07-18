@@ -1,0 +1,9 @@
+INFO:root:Output of scrape_groups.py:
+Data saved to data/group_info.csv
+
+INFO:root:Output of scrape_softwares.py:
+Data saved to data/software_info.csv
+
+INFO:root:Output of scrape_techniques.py:
+Data saved to data/technique_info.csv
+

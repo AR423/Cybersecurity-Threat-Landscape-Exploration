@@ -1,0 +1,795 @@
+type,name,associated software,description
+Malware,3PARA RAT,,3PARA RAT is a remote access tool (RAT) programmed in C++ that has been used by Putter Panda.
+Malware,4H RAT,,4H RAT is malware that has been used by Putter Panda since at least 2007.
+Malware,AADInternals,,"AADInternals is a PowerShell-based framework for administering, enumerating, and exploiting Azure Active Directory. The tool is publicly available on GitHub."
+Tool,ABK,,ABK is a downloader that has been used by BRONZE BUTLER since at least 2019.
+Malware,AbstractEmu,,"AbstractEmu is mobile malware that was first seen in Google Play and other third-party stores in October 2021. It was discovered in 19 Android applications, of which at least 7 abused known Android exploits for obtaining root permissions. AbstractEmu was observed primarily impacting users in the United States, however victims are believed to be across a total of 17 countries."
+Malware,ACAD/Medre.A,,ACAD/Medre.A is a worm that steals operational information. The worm collects AutoCAD files with drawings. ACAD/Medre.A has the capability to be used for industrial espionage.
+Malware,AcidRain,,"AcidRain is an ELF binary targeting modems and routers using MIPS architecture. AcidRain is associated with the ViaSat KA-SAT communication outage that took place during the initial phases of the 2022 full-scale invasion of Ukraine. Analysis indicates overlap with another network device-targeting malware, VPNFilter, associated with Sandworm Team. US and European government sources linked AcidRain to Russian government entities, while Ukrainian government sources linked AcidRain specifically to Sandworm Team."
+Malware,Action RAT,,Action RAT is a  remote access tool written in Delphi that has been used by SideCopy since at least December 2021 against Indian and Afghani government personnel.
+Malware,adbupd,,adbupd is a backdoor used by PLATINUM that is similar to Dipsind.
+Tool,AdFind,,AdFind is a free command-line query tool that can be used for gathering information from Active Directory.
+Tool,Adups,,"Adups is software that was pre-installed onto Android devices, including those made by BLU Products. The software was reportedly designed to help a Chinese phone manufacturer monitor user behavior, transferring sensitive data to a Chinese server."
+Malware,ADVSTORESHELL,"AZZY, EVILTOSS, NETUI, Sedreco",ADVSTORESHELL is a spying backdoor that has been used by APT28 from at least 2012 to 2016. It is generally used for long-term espionage and is deployed on targets deemed interesting after a reconnaissance phase.
+Malware,Agent Smith,,"Agent Smith is mobile malware that generates financial gain by replacing legitimate applications on devices with malicious versions that include fraudulent ads. As of July 2019 Agent Smith had infected around 25 million devices, primarily targeting India though effects had been observed in other Asian countries as well as Saudi Arabia, the United Kingdom, and the United States."
+Malware,Agent Tesla,,Agent Tesla is a spyware Trojan written for the .NET framework that has been observed since at least 2014.
+Malware,Agent.btz,,Agent.btz is a worm that primarily spreads itself via removable devices such as USB drives. It reportedly infected U.S. military networks in 2008.
+Malware,AhRat,,"AhRat is an Android remote access tool based on the open-source AhMyth remote access tool. AhRat initially spread in August 2022 on the Google Play Store via an update containing malicious code to the previously benign application, ""iRecorder – Screen Recorder"", which itself was released in September 2021."
+Malware,Akira,,"Akira ransomware, written in C++, is most prominently (but not exclusively) associated with the a ransomware-as-a-service entity Akira."
+Malware,Allwinner,,Allwinner is a company that supplies processors used in Android tablets and other devices. A Linux kernel distributed by Allwinner for use on these devices reportedly contained a backdoor.
+Malware,Amadey,,Amadey is a Trojan bot that has been used since at least October 2018.
+Malware,Anchor,Anchor_DNS,Anchor is one of a family of backdoor malware that has been used in conjunction with TrickBot on selected high profile targets since at least 2018.
+Malware,Android/AdDisplay.Ashas,,Android/AdDisplay.Ashas is a variant of adware that has been distributed through multiple apps in the Google Play Store.
+Malware,Android/Chuli.A,,Android/Chuli.A is Android malware that was delivered to activist groups via a spearphishing email with an attachment.
+Malware,AndroidOS/MalLocker.B,,AndroidOS/MalLocker.B is a variant of a ransomware family targeting Android devices. It prevents the user from interacting with the UI by displaying a screen containing a ransom note over all other windows.
+Malware,ANDROIDOS_ANSERVER.A,,ANDROIDOS_ANSERVER.A is Android malware that is unique because it uses encrypted content within a blog site for command and control.
+Malware,ANDROMEDA,,"ANDROMEDA is commodity malware that was widespread in the early 2010's and continues to be observed in infections across a wide variety of industries. During the 2022 C0026 campaign, threat actors re-registered expired ANDROMEDA C2 domains to spread malware to select targets in Ukraine."
+Malware,AndroRAT,,"AndroRAT is an open-source remote access tool for Android devices. AndroRAT is capable of collecting data, such as device location, call logs, etc., and is capable of executing actions, such as sending SMS messages and taking pictures. It is originally available through the The404Hacking Github repository."
+Malware,Anubis,,"Anubis is Android malware that was originally used for cyber espionage, and has been retooled as a banking trojan."
+Malware,AppleJeus,,"AppleJeus is a family of downloaders initially discovered in 2018 embedded within trojanized cryptocurrency applications. AppleJeus has been used by Lazarus Group, targeting companies in the energy, finance, government, industry, technology, and telecommunications sectors, and several countries including the United States, United Kingdom, South Korea, Australia, Brazil, New Zealand, and Russia. AppleJeus has been used to distribute the FALLCHILL RAT."
+Malware,AppleSeed,,"AppleSeed is a backdoor that has been used by Kimsuky to target South Korean government, academic, and commercial  targets since at least 2021."
+Malware,Aria-body,,Aria-body is a custom backdoor that has been used by Naikon since approximately 2017.
+Tool,Arp,arp.exe,Arp displays and modifies information about a system's Address Resolution Protocol (ARP) cache.
+Malware,Asacub,Trojan-SMS.AndroidOS.Smaps,Asacub is a banking trojan that attempts to steal money from victims’ bank accounts. It attempts to do this by initiating a wire transfer via SMS message from compromised devices.
+Tool,ASPXSpy,ASPXTool,ASPXSpy is a Web shell. It has been modified by Threat Group-3390 actors to create the ASPXTool version.
+Malware,Astaroth,Guildma,"Astaroth is a Trojan and information stealer known to affect companies in Europe, Brazil, and throughout Latin America. It has been known publicly since at least late 2017."
+Malware,AsyncRAT,,AsyncRAT is an open-source remote access tool originally available through the NYANxCAT Github repository that has been used in malicious campaigns.
+Tool,at,at.exe,at is used to schedule tasks on a system to run at a specified date or time.
+Tool,Attor,,Attor is a Windows-based espionage platform that has been seen in use since 2013. Attor has a loadable plugin architecture to customize functionality for specific targets.
+Malware,AuditCred,Roptimizer,AuditCred is a malicious DLL that has been used by Lazarus Group during their 2018 attacks.
+Malware,AuTo Stealer,,AuTo Stealer is malware written in C++ has been used by SideCopy since at least December 2021 to target government agencies and personnel in India and Afghanistan.
+Malware,AutoIt backdoor,,AutoIt backdoor is malware that has been used by the actors responsible for the MONSOON campaign. The actors frequently used it in weaponized .pps files exploiting CVE-2014-6352.  This malware makes use of the legitimate scripting language for Windows GUI automation with the same name.
+Malware,Avaddon,,Avaddon is ransomware written in C++ that has been offered as Ransomware-as-a-Service (RaaS) since at least June 2020.
+Tool,Avenger,,Avenger is a downloader that has been used by BRONZE BUTLER since at least 2019.
+Malware,AvosLocker,,"AvosLocker is ransomware written in C++ that has been offered via the Ransomware-as-a-Service (RaaS) model. It was first observed in June 2021 and has been used against financial services, critical manufacturing, government facilities, and other critical infrastructure sectors in the United States. As of March 2022, AvosLocker had also been used against organizations in Belgium, Canada, China, Germany, Saudi Arabia, Spain, Syria, Taiwan, Turkey, the United Arab Emirates, and the United Kingdom."
+Malware,Azorult,,"Azorult is a commercial Trojan that is used to steal information from compromised hosts. Azorult has been observed in the wild as early as 2016.In July 2018, Azorult was seen used in a spearphishing campaign against targets in North America. Azorult has been seen used for cryptocurrency theft."
+Malware,Babuk,"Babyk, Vasa Locker","Babuk is a Ransomware-as-a-service (RaaS) malware that has been used since at least 2021. The operators of Babuk employ a ""Big Game Hunting"" approach to targeting major enterprises and operate a leak site to post stolen data as part of their extortion scheme."
+Malware,BabyShark,,BabyShark is a Microsoft Visual Basic (VB) script-based malware family that is believed to be associated with several North Korean campaigns.
+Malware,BackConfig,,BackConfig is a custom Trojan with a flexible plugin architecture that has been used by Patchwork.
+Malware,Backdoor.Oldrea,Havex,"Backdoor.Oldrea is a modular backdoor that used by Dragonfly against energy companies since at least 2013. Backdoor.Oldrea was distributed via supply chain compromise, and included specialized modules to enumerate and map ICS-specific systems, processes, and protocols."
+Malware,BACKSPACE,Lecna,BACKSPACE is a backdoor used by APT30 that dates back to at least 2005.
+Malware,Bad Rabbit,Win32/Diskcoder.D,Bad Rabbit is a self-propagating ransomware that affected the Ukrainian transportation sector in 2017. Bad Rabbit has also targeted organizations and consumers in Russia.
+Malware,BADCALL,,BADCALL is a Trojan malware variant used by the group Lazarus Group.
+Malware,BADFLICK,,BADFLICK is a backdoor used by Leviathan in spearphishing campaigns first reported in 2018 that targeted the U.S. engineering and maritime industries.
+Malware,BADHATCH,,"BADHATCH is a backdoor that has been utilized by FIN8 since at least 2019. BADHATCH has been used to target the insurance, retail, technology, and chemical industries in the United States, Canada, South Africa, Panama, and Italy."
+Malware,BADNEWS,,"BADNEWS is malware that has been used by the actors responsible for the Patchwork campaign. Its name was given due to its use of RSS feeds, forums, and blogs for command and control."
+Malware,BadPatch,,BadPatch is a Windows Trojan that was used in a Gaza Hackers-linked campaign.
+Tool,Bandook,,"Bandook is a commercially available RAT, written in Delphi and C++, that has been available since at least 2007. It has been used against government, financial, energy, healthcare, education, IT, and legal organizations in the US, South America, Europe, and Southeast Asia. Bandook has been used by Dark Caracal, as well as in a separate campaign referred to as ""Operation Manul""."
+Malware,Bankshot,Trojan Manuscript,"Bankshot is a remote access tool (RAT) that was first reported by the Department of Homeland Security in December of 2017. In 2018, Lazarus Group used the Bankshot implant in attacks against the Turkish financial sector."
+Malware,Bazar,"KEGTAP, Team9, Bazaloader","Bazar is a downloader and backdoor that has been used since at least April 2020, with infections primarily against professional services, healthcare, manufacturing, IT, logistics and travel companies across the US and Europe. Bazar reportedly has ties to TrickBot campaigns and can be used to deploy additional malware, including ransomware, and to steal sensitive data."
+Tool,BBK,,BBK is a downloader that has been used by BRONZE BUTLER since at least 2019.
+Malware,BBSRAT,,BBSRAT is malware with remote access tool functionality that has been used in targeted compromises.
+Malware,BendyBear,,"BendyBear is an x64 shellcode for a stage-zero implant designed to download malware from a C2 server. First discovered in August 2020, BendyBear shares a variety of features with Waterbear, malware previously attributed to the Chinese cyber espionage group BlackTech."
+Malware,BISCUIT,,BISCUIT is a backdoor that has been used by APT1 since as early as 2007.
+Malware,Bisonal,,"Bisonal is a remote access tool (RAT) that has been used by Tonto Team against public and private sector organizations in Russia, South Korea, and Japan since at least December 2010."
+Malware,BitPaymer,"wp_encrypt, FriedEx","BitPaymer is a ransomware variant first observed in August 2017 targeting hospitals in the U.K. BitPaymer uses a unique encryption key, ransom note, and contact information for each operation. BitPaymer has several indicators suggesting overlap with the Dridex malware and is often delivered via Dridex."
+Tool,BITSAdmin,,BITSAdmin is a command line tool used to create and manage BITS Jobs.
+Malware,Black Basta,,"Black Basta is ransomware written in C++ that has been offered within the ransomware-as-a-service (RaaS) model since at least April 2022; there are variants that target Windows and VMWare ESXi servers. Black Basta operations have included the double extortion technique where in addition to demanding ransom for decrypting the files of targeted organizations the cyber actors also threaten to post sensitive information to a leak site if the ransom is not paid. Black Basta affiliates have targeted multiple high-value organizations, with the largest number of victims based in the U.S. Based on similarities in TTPs, leak sites, payment sites, and negotiation tactics, security researchers assess the Black Basta RaaS operators could include current or former members of the Conti group."
+Malware,BlackCat,"ALPHV, Noberus","BlackCat is ransomware written in Rust that has been offered via the Ransomware-as-a-Service (RaaS) model. First observed November 2021, BlackCat has been used to target multiple sectors and organizations in various countries and regions in Africa, the Americas, Asia, Australia, and Europe."
+Malware,BLACKCOFFEE,,BLACKCOFFEE is malware that has been used by several Chinese groups since at least 2013.
+Malware,BlackEnergy,Black Energy,"BlackEnergy is a malware toolkit that has been used by both criminal and APT actors. It dates back to at least 2007 and was originally designed to create botnets for use in conducting Distributed Denial of Service (DDoS) attacks, but its use has evolved to support various plug-ins. It is well known for being used during the confrontation between Georgia and Russia in 2008, as well as in targeting Ukrainian institutions. Variants include BlackEnergy 2 and BlackEnergy 3."
+Malware,BlackMould,,"BlackMould is a web shell based on China Chopper for servers running Microsoft IIS. First reported in December 2019, it has been used in malicious campaigns by GALLIUM against telecommunication providers."
+Malware,BLINDINGCAN,,"BLINDINGCAN is a remote access Trojan that has been used by the North Korean government since at least early 2020 in cyber operations against defense, engineering, and government organizations in Western Europe and the US."
+Tool,BloodHound,,BloodHound is an Active Directory (AD) reconnaissance tool that can reveal hidden relationships and identify attack paths within an AD environment.
+Malware,BLUELIGHT,,BLUELIGHT is a remote access Trojan used by APT37 that was first observed in early 2021.
+Malware,Bonadan,,Bonadan is a malicious version of OpenSSH which acts as a custom backdoor. Bonadan has been active since at least 2018 and combines a new cryptocurrency-mining module with the same credential-stealing module used by the Onderon family of backdoors.
+Malware,BONDUPDATER,,"BONDUPDATER is a PowerShell backdoor used by OilRig. It was first observed in November 2017 during targeting of a Middle Eastern government organization, and an updated version was observed in August 2018 being used to target a government organization with spearphishing emails."
+Tool,BoomBox,,BoomBox is a downloader responsible for executing next stage components that has been used by APT29 since at least 2021.
+Tool,BOOSTWRITE,,BOOSTWRITE is a loader crafted to be launched via abuse of the DLL search order of applications used by FIN7.
+Tool,BOOTRASH,,BOOTRASH is a Bootkit that targets Windows operating systems. It has been used by threat actors that target the financial sector.
+Malware,BOULDSPY,,"BOULDSPY is an Android malware, detected in early 2023, with surveillance and remote-control capabilities. Analysis of exfiltrated C2 data suggests that BOULDSPY primarily targeted minority groups in Iran."
+Malware,BoxCaon,,BoxCaon is a Windows backdoor that was used by IndigoZebra in a 2021 spearphishing campaign against Afghan government officials. BoxCaon's name stems from similarities shared with the malware family xCaon.
+Malware,BrainTest,,BrainTest is a family of Android malware.
+Malware,BRATA,,"BRATA (Brazilian Remote Access Tool, Android), is an evolving Android malware strain, detected in late 2018 and again in late 2021. Originating in Brazil, BRATA was later also found in the UK, Poland, Italy, Spain, and USA, where it is believed to have targeted financial institutions such as banks. There are currently three known variants of BRATA."
+Tool,Brave Prince,,"Brave Prince is a Korean-language implant that was first observed in the wild in December 2017. It contains similar code and behavior to Gold Dragon, and was seen along with Gold Dragon and RunningRAT in operations surrounding the 2018 Pyeongchang Winter Olympics."
+Malware,Bread,Joker,"Bread was a large-scale billing fraud malware family known for employing many different cloaking and obfuscation techniques in an attempt to continuously evade Google Play Store’s malware detection. 1,700 unique Bread apps were detected and removed from the Google Play Store before being downloaded by users."
+Malware,Briba,,Briba is a trojan used by Elderwood to open a backdoor and download files on to compromised hosts.
+Malware,Brute Ratel C4,BRc4,"Brute Ratel C4 is a commercial red-teaming and adversarial attack simulation tool that first appeared in December 2020. Brute Ratel C4 was specifically designed to avoid detection by endpoint detection and response (EDR) and antivirus (AV) capabilities, and deploys agents called badgers to enable arbitrary command execution for lateral movement, privilege escalation, and persistence. In September 2022, a cracked version of Brute Ratel C4 was leaked in the cybercriminal underground, leading to its use by threat actors."
+Malware,BS2005,,BS2005 is malware that was used by Ke3chang in spearphishing campaigns since at least 2011.
+Malware,BUBBLEWRAP,Backdoor.APT.FakeWinHTTPHelper,"BUBBLEWRAP is a full-featured, second-stage backdoor used by the admin@338 group. It is set to run when the system boots and includes functionality to check, upload, and register plug-ins that can further enhance its capabilities."
+Tool,build_downer,,build_downer is a downloader that has been used by BRONZE BUTLER since at least 2019.
+Malware,Bumblebee,,"Bumblebee is a custom loader written in C++ that has been used by multiple threat actors, including possible initial access brokers, to download and execute additional payloads since at least March 2022. Bumblebee has been linked to ransomware operations including Conti, Quantum, and Mountlocker and derived its name from the appearance of ""bumblebee"" in the user-agent."
+Malware,Bundlore,OSX.Bundlore,"Bundlore is adware written for macOS that has been in use since at least 2015. Though categorized as adware, Bundlore has many features associated with more traditional backdoors."
+Tool,BUSHWALK,,BUSHWALK is a web shell written in Perl that was inserted into the legitimate querymanifest.cgi file on compromised Ivanti Connect Secure VPNs during Cutting Edge.
+Malware,BusyGasper,,"BusyGasper is Android spyware that has been in use since May 2016. There have been less than 10 victims, all who appear to be located in Russia, that were all infected via physical access to the device."
+Tool,Cachedump,,Cachedump is a publicly-available tool that program extracts cached password hashes from a system’s registry.
+Tool,CaddyWiper,,CaddyWiper is a destructive data wiper that has been used in attacks against organizations in Ukraine since at least March 2022.
+Malware,Cadelspy,,Cadelspy is a backdoor that has been used by APT39.
+Malware,CALENDAR,,CALENDAR is malware used by APT1 that mimics legitimate Gmail Calendar traffic.
+Malware,Calisto,,Calisto is a macOS Trojan that opens a backdoor on the compromised machine. Calisto is believed to have first been developed in 2016.
+Malware,CallMe,,CallMe is a Trojan designed to run on Apple OSX. It is based on a publicly available tool called Tiny SHell.
+Malware,Cannon,,Cannon is a Trojan with variants written in C# and Delphi. It was first observed in April 2018.
+Malware,Carbanak,Anunak,"Carbanak is a full-featured, remote backdoor used by a group of the same name (Carbanak). It is intended for espionage, data exfiltration, and providing remote access to infected machines."
+Malware,Carberp,,"Carberp is a credential and information stealing malware that has been active since at least 2009. Carberp's source code was leaked online in 2013, and subsequently used as the foundation for the Carbanak backdoor."
+Malware,Carbon,,"Carbon is a sophisticated, second-stage backdoor and framework that can be used to steal sensitive information from victims. Carbon has been selectively used by Turla to target government and foreign affairs-related organizations in Central Asia."
+Tool,CarbonSteal,,CarbonSteal is one of a family of four surveillanceware tools that share a common C2 infrastructure. CarbonSteal primarily deals with audio surveillance.
+Malware,Cardinal RAT,,Cardinal RAT is a potentially low volume remote access trojan (RAT) observed since December 2015. Cardinal RAT is notable for its unique utilization of uncompiled C# source code and the Microsoft Windows built-in csc.exe compiler.
+Tool,CARROTBALL,,CARROTBALL is an FTP downloader utility that has been in use since at least 2019. CARROTBALL has been used as a downloader to install SYSCON.
+Tool,CARROTBAT,,CARROTBAT is a customized dropper that has been in use since at least 2017. CARROTBAT has been used to install SYSCON and has infrastructure overlap with KONNI.
+Malware,Catchamas,,Catchamas is a Windows Trojan that steals information from compromised systems.
+Tool,Caterpillar WebShell,,Caterpillar WebShell is a self-developed Web Shell tool created by the group Volatile Cedar.
+Malware,CCBkdr,,CCBkdr is malware that was injected into a signed version of CCleaner and distributed from CCleaner's distribution website.
+Malware,ccf32,,"ccf32 is data collection malware that has been used since at least February 2019, most notably during the FunnyDream campaign; there is also a similar x64 version."
+Malware,Cerberus,,"Cerberus is a banking trojan whose usage can be rented on underground forums and marketplaces. Prior to being available to rent, the authors of Cerberus claim was used in private operations for two years."
+Tool,certutil,certutil.exe,certutil is a command-line utility that can be used to obtain certificate authority information and configure Certificate Services.
+Tool,Chaes,,"Chaes is a multistage information stealer written in several programming languages that collects login credentials, credit card numbers, and other financial information. Chaes was first observed in 2020, and appears to primarily target victims in Brazil as well as other e-commerce customers in Latin America."
+Malware,Chameleon,,"Chameleon is an Android banking trojan that can leverage Android’s Accessibility Services to perform malicious activities. Believed to have been first active in January 2023, Chameleon has been observed targeting users in Australia and Poland by masquerading as official apps."
+Malware,Chaos,,"Chaos is Linux malware that compromises systems by brute force attacks against SSH services. Once installed, it provides a reverse shell to its controllers, triggered by unsolicited packets."
+Malware,Charger,,Charger is Android malware that steals steals contacts and SMS messages from the user's device. It can also lock the device and demand ransom payment if it receives admin permissions.
+Malware,CharmPower,,"CharmPower is a PowerShell-based, modular backdoor that has been used by Magic Hound since at least 2022."
+Malware,ChChes,"Scorpion, HAYMAKER",ChChes is a Trojan that appears to be used exclusively by menuPass. It was used to target Japanese organizations in 2016. Its lack of persistence methods suggests it may be intended as a first-stage tool.
+Malware,Cheerscrypt,,"Cheerscrypt is a ransomware that was developed by Cinnamon Tempest and has been used in attacks against ESXi and Windows environments since at least 2022. Cheerscrypt was derived from the leaked Babuk source code and has infrastructure overlaps with deployments of Night Sky ransomware, which was also derived from Babuk."
+Malware,CHEMISTGAMES,,CHEMISTGAMES is a modular backdoor that has been deployed by Sandworm Team.
+Tool,Cherry Picker,,Cherry Picker is a point of sale (PoS) memory scraper.
+Tool,China Chopper,,China Chopper is a Web Shell hosted on Web servers to provide access back into an enterprise network that does not rely on an infected system calling back to a remote command and control server. It has been used by several threat groups.
+Malware,Chinoxy,,"Chinoxy is a backdoor that has been used since at least November 2018, during the FunnyDream campaign, to gain persistence and drop additional payloads. According to security researchers, Chinoxy has been used by Chinese-speaking threat actors."
+Malware,CHOPSTICK,"Backdoor.SofacyX, SPLM, Xagent, X-Agent, webhp","CHOPSTICK is a malware family of modular backdoors used by APT28. It has been used since at least 2012 and is usually dropped on victims as second-stage malware, though it has been used as first-stage malware in several cases. It has both Windows and Linux variants.     It is tracked separately from the X-Agent for Android."
+Malware,Chrommme,,Chrommme is a backdoor tool written using the Microsoft Foundation Class (MFC) framework that was first reported in June 2021; security researchers noted infrastructure overlaps with Gelsemium malware.
+Tool,Circles,,"Circles reportedly takes advantage of Signaling System 7 (SS7) weaknesses, the protocol suite used to route phone calls, to both track the location of mobile devices and intercept voice calls and SMS messages. It can be connected to a telecommunications company’s infrastructure or purchased as a cloud service. Circles has reportedly been linked to the NSO Group."
+Malware,Clambling,,Clambling is a modular backdoor written in C++ that has been used by Threat Group-3390 since at least 2017.
+Malware,Clop,,"Clop is a ransomware family that was first observed in February 2019 and has been used against retail, transportation and logistics, education, manufacturing, engineering, automotive, energy, financial, aerospace, telecommunications, professional and legal services, healthcare, and high tech industries. Clop is a variant of the CryptoMix ransomware."
+Malware,CloudDuke,"MiniDionis, CloudLook",CloudDuke is malware that was used by APT29 in 2015.
+Tool,cmd,cmd.exe,cmd is the Windows command-line interpreter that can be used to interact with systems and execute other processes and utilities.
+Malware,COATHANGER,,"COATHANGER is a remote access tool (RAT) targeting FortiGate networking appliances. First used in 2023 in targeted intrusions against military and government entities in the Netherlands along with other victims, COATHANGER was disclosed in early 2024, with a high confidence assessment linking this malware to a state-sponsored entity in the People's Republic of China. COATHANGER is delivered after gaining access to a FortiGate device, with in-the-wild observations linked to exploitation of CVE-2022-42475. The name COATHANGER is based on a unique string in the malware used to encrypt configuration files on disk: ""She took his coat and hung it up""."
+Malware,Cobalt Strike,,"Cobalt Strike is a commercial, full-featured, remote access tool that bills itself as ""adversary simulation software designed to execute targeted attacks and emulate the post-exploitation actions of advanced threat actors"". Cobalt Strike’s interactive post-exploit capabilities cover the full range of ATT&CK tactics, all executed within a single, integrated system."
+Malware,Cobian RAT,,"Cobian RAT is a backdoor, remote access tool that has been observed since 2016."
+Malware,CoinTicker,,CoinTicker is a malicious application that poses as a cryptocurrency price ticker and installs components of the open source backdoors EvilOSX and EggShell.
+Malware,Comnie,,Comnie is a remote backdoor which has been used in attacks in East Asia.
+Tool,ComRAT,,"ComRAT is a second stage implant suspected of being a descendant of Agent.btz and used by Turla. The first version of ComRAT was identified in 2007, but the tool has undergone substantial development for many years since."
+Malware,Concipit1248,Corona Updates,Concipit1248 is iOS spyware that was discovered using the same name as the developer of the Android spyware Corona Updates. Further investigation revealed that the two pieces of software contained the same C2 URL and similar functionality.
+Malware,Conficker,"Kido, Downadup","Conficker is a computer worm first detected in October 2008 that targeted Microsoft Windows using the MS08-067 Windows vulnerability to spread. In 2016, a variant of Conficker made its way on computers and removable disk drives belonging to a nuclear power plant."
+Tool,ConnectWise,ScreenConnect,ConnectWise is a legitimate remote administration tool that has been used since at least 2016 by threat actors including MuddyWater and GOLD SOUTHFIELD to connect to and conduct lateral movement in target environments.
+Malware,Conti,,"Conti is a Ransomware-as-a-Service (RaaS) that was first observed in December 2019. Conti has been deployed via TrickBot and used against major corporations and government agencies, particularly those in North America. As with other ransomware families, actors using Conti steal sensitive files and information from compromised networks, and threaten to publish this data unless the ransom is paid."
+Malware,CookieMiner,,CookieMiner is mac-based malware that targets information associated with cryptocurrency exchanges as well as enabling cryptocurrency mining on the victim system itself. It was first discovered in the wild in 2019.
+Tool,CORALDECK,,CORALDECK is an exfiltration tool used by APT37.
+Malware,CORESHELL,"Sofacy, SOURFACE",CORESHELL is a downloader used by APT28. The older versions of this malware are known as SOURFACE and newer versions as CORESHELL.
+Malware,Corona Updates,"Wabi Music, Concipit1248",Corona Updates is Android spyware that took advantage of the Coronavirus pandemic. The campaign distributing this spyware is tracked as Project Spy. Multiple variants of this spyware have been discovered to have been hosted on the Google Play Store.
+Malware,CosmicDuke,"TinyBaron, BotgenStudios, NemesisGemina",CosmicDuke is malware that was used by APT29 from 2010 to 2015.
+Malware,CostaBricks,,CostaBricks is a loader that was used to deploy 32-bit backdoors in the CostaRicto campaign.
+Malware,CozyCar,"CozyDuke, CozyBear, Cozer, EuroAPT","CozyCar is malware that was used by APT29 from 2010 to 2015. It is a modular malware platform, and its backdoor component can be instructed to download and execute a variety of modules with different functionality."
+Malware,CrackMapExec,,"CrackMapExec, or CME, is a post-exploitation tool developed in Python and designed for penetration testing against networks. CrackMapExec collects Active Directory information to conduct lateral movement through targeted networks."
+Tool,CreepyDrive,,CreepyDrive is a custom implant has been used by POLONIUM since at least early 2022 for C2 with and exfiltration to actor-controlled OneDrive accounts.
+Tool,CreepySnail,,CreepySnail is a custom PowerShell implant that has been used by POLONIUM since at least 2022.
+Malware,Crimson,MSIL/Crimson,Crimson is a remote access Trojan that has been used by Transparent Tribe since at least 2016.
+Tool,CrossRAT,,CrossRAT is a cross platform RAT.
+Malware,Crutch,,Crutch is a backdoor designed for document theft that has been used by Turla since at least 2015.
+Malware,Cryptoistic,,"Cryptoistic is a backdoor, written in Swift, that has been used by Lazarus Group."
+Tool,CSPY Downloader,,CSPY Downloader is a tool designed to evade analysis and download additional payloads used by Kimsuky.
+Malware,Cuba,,"Cuba is a Windows-based ransomware family that has been used against financial institutions, technology, and logistics organizations in North and South America as well as Europe since at least December 2019."
+Malware,Cyclops Blink,,"Cyclops Blink is a modular malware that has been used in widespread campaigns by Sandworm Team since at least 2019 to target Small/Home Office (SOHO) network devices, including WatchGuard and Asus."
+Malware,Dacls,,Dacls is a multi-platform remote access tool used by Lazarus Group since at least December 2019.
+Malware,DanBot,,DanBot is a first-stage remote access Trojan written in C# that has been used by HEXANE since at least 2018.
+Malware,DarkComet,"DarkKomet, Fynloski, Krademok, FYNLOS",DarkComet is a Windows remote administration tool and backdoor.
+Malware,DarkGate,,"DarkGate first emerged in 2018 and has evolved into an initial access and data gathering tool associated with various criminal cyber operations. Written in Delphi and named ""DarkGate"" by its author, DarkGate is associated with credential theft, cryptomining, cryptotheft, and pre-ransomware actions. DarkGate use increased significantly starting in 2022 and is under active development by its author, who provides it as a Malware-as-a-Service offering."
+Tool,DarkTortilla,,"DarkTortilla is a highly configurable .NET-based crypter that has been possibly active since at least August 2015. DarkTortilla has been used to deliver popular information stealers, RATs, and payloads such as Agent Tesla, AsyncRat, NanoCore, RedLine, Cobalt Strike, and Metasploit."
+Malware,DarkWatchman,,DarkWatchman is a lightweight JavaScript-based remote access tool (RAT) that avoids file operations; it was first observed in November 2021.
+Malware,Daserf,"Muirim, Nioupale","Daserf is a backdoor that has been used to spy on and steal from Japanese, South Korean, Russian, Singaporean, and Chinese victims. Researchers have identified versions written in both Visual C and Delphi."
+Malware,DCSrv,,"DCSrv is destructive malware that has been used by Moses Staff since at least  September 2021. Though DCSrv has ransomware-like capabilities, Moses Staff does not demand ransom or offer a decryption key."
+Malware,DDKONG,,DDKONG is a malware sample that was part of a campaign by Rancor. DDKONG was first seen used in February 2017.
+Malware,DEADEYE,"DEADEYE.EMBED, DEADEYE.APPEND",DEADEYE is a malware launcher that has been used by APT41 since at least May 2021. DEADEYE has variants that can either embed a payload inside a compiled binary (DEADEYE.EMBED) or append it to the end of a file (DEADEYE.APPEND).
+Malware,DealersChoice,,DealersChoice is a Flash exploitation framework used by APT28.
+Malware,DEATHRANSOM,,"DEATHRANSOM is ransomware written in C that has been used since at least 2020, and has potential overlap with FIVEHANDS and HELLOKITTY."
+Malware,DEFENSOR ID,,DEFENSOR ID is a banking trojan capable of clearing a victim’s bank account or cryptocurrency wallet and taking over email or social media accounts. DEFENSOR ID performs the majority of its malicious functionality by abusing Android’s accessibility service.
+Malware,Dendroid,,Dendroid is an Android remote access tool (RAT) primarily targeting Western countries. The RAT was available for purchase for $300 and came bundled with a utility to inject the RAT into legitimate applications.
+Malware,Denis,,Denis is a Windows backdoor and Trojan used by APT32. Denis shares several similarities to the SOUNDBITE backdoor and has been used in conjunction with the Goopy backdoor.
+Malware,Derusbi,PHOTO,Derusbi is malware used by multiple Chinese APT groups. Both Windows and Linux variants have been observed.
+Tool,Desert Scorpion,,"Desert Scorpion is surveillanceware that has targeted the Middle East, specifically individuals located in Palestine. Desert Scorpion is suspected to have been operated by the threat actor APT-C-23."
+Malware,Diavol,,Diavol is a ransomware variant first observed in June 2021 that is capable of prioritizing file types to encrypt based on a pre-configured list of extensions defined by the attacker.  The Diavol Ransomware-as-a Service (RaaS) program is managed by Wizard Spider and it has been observed being deployed by Bazar.
+Malware,Dipsind,,Dipsind is a malware family of backdoors that appear to be used exclusively by PLATINUM.
+Malware,Disco,,Disco is a custom implant that has been used by MoustachedBouncer since at least 2020 including in campaigns using targeted malicious content injection for initial access and command and control.
+Malware,DnsSystem,,"DnsSystem is a .NET based DNS backdoor, which is a customized version of the open source tool DIG.net, that has been used by HEXANE since at least June 2022."
+Malware,DOGCALL,,DOGCALL is a backdoor used by APT37 that has been used to target South Korean government and military organizations in 2017. It is typically dropped using a Hangul Word Processor (HWP) exploit.
+Malware,Dok,Retefe,Dok is a Trojan application disguised as a .zip file that is able to collect user credentials and install a malicious proxy server to redirect a user's network traffic (i.e. Adversary-in-the-Middle).
+Malware,Doki,,Doki is a backdoor that uses a unique Dogecoin-based Domain Generation Algorithm and was first observed in July 2020. Doki was used in conjunction with the ngrok Mining Botnet in a campaign that targeted Docker servers in cloud platforms.
+Malware,Donut,,Donut is an open source framework used to generate position-independent shellcode. Donut generated code has been used by multiple threat actors to inject and load malicious payloads into memory.
+Malware,DoubleAgent,,"DoubleAgent is a family of RAT malware dating back to 2013, known to target groups with contentious relationships with the Chinese government."
+Tool,down_new,,down_new is a downloader that has been used by BRONZE BUTLER since at least 2019.
+Tool,Downdelph,Delphacy,Downdelph is a first-stage downloader written in Delphi that has been used by APT28 in rare instances between 2013 and 2015.
+Malware,DownPaper,,DownPaper is a backdoor Trojan; its main functionality is to download and run second stage malware.
+Malware,DRATzarus,,"DRATzarus is a remote access tool (RAT) that has been used by Lazarus Group to target the defense and aerospace organizations globally since at least summer 2020. DRATzarus shares similarities with Bankshot, which was used by Lazarus Group in 2017 to target the Turkish financial sector."
+Malware,DressCode,,DressCode is an Android malware family.
+Malware,Dridex,Bugat v5,"Dridex is a prolific banking Trojan that first appeared in 2014. By December 2019, the US Treasury estimated Dridex had infected computers in hundreds of banks and financial institutions in over 40 countries, leading to more than $100 million in theft. Dridex was created from the source code of the Bugat banking Trojan (also known as Cridex)."
+Malware,Drinik,,"Drinik is an evolving Android banking trojan that was observed targeting customers of around 27 banks in India in August 2021. Initially seen as an SMS stealer in 2016, Drinik resurfaced as a banking trojan with more advanced capabilities included in subsequent versions between September 2021 and August 2022."
+Malware,DroidJack,,DroidJack is an Android remote access tool that has been observed posing as legitimate applications including the Super Mario Run and Pokemon GO games.
+Malware,DropBook,,DropBook is a Python-based backdoor compiled with PyInstaller.
+Malware,Drovorub,,"Drovorub is a Linux malware toolset comprised of an agent, client, server, and kernel modules, that has been used by APT28."
+Tool,dsquery,dsquery.exe,dsquery is a command-line utility that can be used to query Active Directory for information from a system within a domain.  It is typically installed only on Windows Server versions but can be installed on non-server variants through the Microsoft-provided Remote Server Administration Tools bundle.
+Malware,Dtrack,,"Dtrack is spyware that was discovered in 2019 and has been used against Indian financial institutions, research facilities, and the Kudankulam Nuclear Power Plant. Dtrack shares similarities with the DarkSeoul campaign, which was attributed to Lazarus Group."
+Malware,DualToy,,DualToy is Windows malware that installs malicious applications onto Android and iOS devices connected over USB.
+Malware,Duqu,,Duqu is a malware platform that uses a modular approach to extend functionality after deployment within a target network.
+Malware,DustySky,NeD Worm,DustySky is multi-stage malware written in .NET that has been used by Molerats since May 2015.
+Malware,Dvmap,,Dvmap is rooting malware that injects malicious code into system runtime libraries. It is credited with being the first malware that performs this type of code injection.
+Malware,Dyre,"Dyzap, Dyreza",Dyre is a banking Trojan that has been used for financial gain.
+Malware,Ebury,,"Ebury is an SSH backdoor targeting Linux operating systems. Attackers require root-level access, which allows them to replace SSH binaries (ssh, sshd, ssh-add, etc) or modify a shared library used by OpenSSH (libkeyutils)."
+Malware,ECCENTRICBANDWAGON,,ECCENTRICBANDWAGON is a remote access Trojan (RAT) used by North Korean cyber actors that was first identified in August 2020. It is a reconnaissance tool--with keylogging and screen capture functionality--used for information gathering on compromised systems.
+Tool,Ecipekac,"HEAVYHAND, SigLoader, DESLoader","Ecipekac is a multi-layer loader that has been used by menuPass since at least 2019 including use as a loader for P8RAT, SodaMaster, and FYAnti."
+Malware,Egregor,,"Egregor is a Ransomware-as-a-Service (RaaS) tool that was first observed in September 2020. Researchers have noted code similarities between Egregor and Sekhmet ransomware, as well as Maze ransomware."
+Malware,EKANS,SNAKEHOSE,"EKANS is ransomware variant written in Golang that first appeared in mid-December 2019 and has been used against multiple sectors, including energy, healthcare, and automotive manufacturing, which in some cases resulted in significant operational disruptions. EKANS has used a hard-coded kill-list of processes, including some associated with common ICS software platforms (e.g., GE Proficy, Honeywell HMIWeb, etc), similar to those defined in MegaCortex."
+Malware,Elise,"BKDR_ESILE, Page","Elise is a custom backdoor Trojan that appears to be used exclusively by Lotus Blossom. It is part of a larger group oftools referred to as LStudio, ST Group, and APT0LSTU."
+Malware,ELMER,,"ELMER is a non-persistent, proxy-aware HTTP backdoor written in Delphi that has been used by APT16."
+Malware,Emissary,,"Emissary is a Trojan that has been used by Lotus Blossom. It shares code with Elise, with both Trojans being part of a malware group referred to as LStudio."
+Malware,Emotet,Geodo,Emotet is a modular malware variant which is primarily used as a downloader for other malware variants such as TrickBot and IcedID. Emotet first emerged in June 2014 and has been primarily used to target the banking sector.
+Malware,Empire,"EmPyre, PowerShell Empire","Empire is an open source, cross-platform remote administration and post-exploitation framework that is publicly available on GitHub. While the tool itself is primarily written in Python, the post-exploitation agents are written in pure PowerShell for Windows and Python for Linux/macOS. Empire was one of five tools singled out by a joint report on public hacking tools being widely used by adversaries."
+Tool,EnvyScout,,EnvyScout is a dropper that has been used by APT29 since at least 2021.
+Malware,Epic,"Tavdig, Wipbot, WorldCupSec, TadjMakhal",Epic is a backdoor that has been used by Turla.
+Malware,Escobar,,"Escobar is an Android banking trojan, first detected in March 2021, believed to be a new variant of AbereBot."
+Tool,esentutl,esentutl.exe,esentutl is a command-line tool that provides database utilities for the Windows Extensible Storage Engine.
+Tool,eSurv,,eSurv is mobile surveillanceware designed for the lawful intercept market that was developed over the course of many years.
+Malware,EventBot,,"EventBot is an Android banking trojan and information stealer that abuses Android’s accessibility service to steal data from various applications. EventBot was designed to target over 200 different banking and financial applications, the majority of which are European bank and cryptocurrency exchange applications."
+Malware,EvilBunny,,EvilBunny is a C++ malware sample observed since 2011 that was designed to be a execution platform for Lua scripts.
+Malware,EvilGrab,,EvilGrab is a malware family with common reconnaissance capabilities. It has been deployed by menuPass via malicious Microsoft Office documents as part of spearphishing campaigns.
+Malware,EVILNUM,,EVILNUM is fully capable backdoor that was first identified in 2018. EVILNUM is used by the APT group Evilnum which has the same name.
+Malware,Exaramel for Linux,,Exaramel for Linux is a backdoor written in the Go Programming Language and compiled as a 64-bit ELF binary. The Windows version is tracked separately under Exaramel for Windows.
+Malware,Exaramel for Windows,,Exaramel for Windows is a backdoor used for targeting Windows systems. The Linux version is tracked separately under Exaramel for Linux.
+Malware,Exobot,Marcher,"Exobot is Android banking malware, primarily targeting financial institutions in Germany, Austria, and France."
+Malware,Exodus,"Exodus One, Exodus Two",Exodus is Android spyware deployed in two distinct stages named Exodus One (dropper) and Exodus Two (payload).
+Tool,Expand,,Expand is a Windows utility used to expand one or more compressed CAB files. It has been used by BBSRAT to decompress a CAB file into executable content.
+Malware,Explosive,,Explosive is a custom-made remote access tool used by the group Volatile Cedar. It was first identified in the wild in 2015.
+Malware,Fakecalls,,"Fakecalls is an Android trojan, first detected in January 2021, that masquerades as South Korean banking apps. It has capabilities to intercept calls to banking institutions and even maintain realistic dialogues with the victim using pre-recorded audio snippets."
+Malware,FakeM,,FakeM is a shellcode-based Windows backdoor that has been used by Scarlet Mimic.
+Malware,FakeSpy,,FakeSpy is Android spyware that has been operated by the Chinese threat actor behind the Roaming Mantis campaigns.
+Malware,FALLCHILL,,"FALLCHILL is a RAT that has been used by Lazarus Group since at least 2016 to target the aerospace, telecommunications, and finance industries. It is usually dropped by other Lazarus Group malware or delivered when a victim unknowingly visits a compromised website."
+Malware,FatDuke,,FatDuke is a backdoor used by APT29 since at least 2016.
+Malware,Felismus,,Felismus is a modular backdoor that has been used by Sowbug.
+Malware,FELIXROOT,GreyEnergy mini,FELIXROOT is a backdoor that has been used to target Ukrainian victims.
+Tool,Ferocious,,Ferocious is a first stage implant composed of VBS and PowerShell scripts that has been used by WIRTE since at least 2021.
+Tool,Fgdump,,Fgdump is a Windows password hash dumper.
+Tool,Final1stspy,,Final1stspy is a dropper family that has been used to deliver DOGCALL.
+Malware,FinFisher,FinSpy,FinFisher is a government-grade commercial surveillance spyware reportedly sold exclusively to government agencies for use in targeted and lawful criminal investigations. It is heavily obfuscated and uses multiple anti-analysis techniques. It has other variants including Wingbird.
+Malware,FIVEHANDS,,"FIVEHANDS is a customized version of DEATHRANSOM ransomware written in C++. FIVEHANDS has been used since at least 2021, including in Ransomware-as-a-Service (RaaS) campaigns, sometimes along with SombRAT."
+Tool,Flagpro,,"Flagpro is a Windows-based, first-stage downloader that has been used by BlackTech since at least October 2020. It has primarily been used against defense, media, and communications companies in Japan."
+Tool,Flame,"Flamer, sKyWIper","Flame is a sophisticated toolkit that has been used to collect information since at least 2010, largely targeting Middle East countries."
+Malware,FLASHFLOOD,,FLASHFLOOD is malware developed by APT30 that allows propagation and exfiltration of data over removable devices. APT30 may use this capability to exfiltrate data across air-gaps.
+Malware,FlawedAmmyy,,"FlawedAmmyy is a remote access tool (RAT) that was first seen in early 2016. The code for FlawedAmmyy was based on leaked source code for a version of Ammyy Admin, a remote access software."
+Malware,FlawedGrace,,FlawedGrace is a fully featured remote access tool (RAT) written in C++ that was first observed in late 2017.
+Tool,FlexiSpy,,"FlexiSpy is sophisticated surveillanceware for iOS and Android. Publicly-available, comprehensive analysis has only been found for the Android version."
+Tool,FLIPSIDE,,FLIPSIDE is a simple tool similar to Plink that is used by FIN5 to maintain access to victims.
+Malware,FlixOnline,,"FlixOnline is an Android malware, first detected in early 2021, believed to target users of WhatsApp. FlixOnline primarily spreads via automatic replies to a device’s incoming WhatsApp messages."
+Malware,FluBot,,FluBot is a multi-purpose mobile banking malware that was first observed in Spain in late 2020. It primarily spread through European countries using a variety of SMS phishing messages in multiple languages.
+Malware,FlyTrap,,"FlyTrap is an Android trojan, first detected in March 2021, that uses social engineering tactics to compromise Facebook accounts. FlyTrap was initially detected through infected apps on the Google Play store, and is believed to have impacted over 10,000 victims across at least 140 countries."
+Malware,FoggyWeb,,FoggyWeb is a passive and highly-targeted backdoor capable of remotely exfiltrating sensitive information from a compromised Active Directory Federated Services (AD FS) server. It has been used by APT29 since at least early April 2021.
+Tool,Forfiles,,"Forfiles is a Windows utility commonly used in batch jobs to execute commands on one or more selected files or directories (ex: list all directories in a drive, read the first line of all files created yesterday, etc.). Forfiles can be executed from either the command line, Run window, or batch files/scripts."
+Tool,FRAMESTING,,FRAMESTING is a Python web shell that was used during Cutting Edge to embed into an Ivanti Connect Secure Python package for command execution.
+Malware,FrameworkPOS,Trinity,FrameworkPOS is a point of sale (POS) malware used by FIN6 to steal payment card data from sytems that run physical POS devices.
+Tool,FrozenCell,,"FrozenCell is the mobile component of a family of surveillanceware, with a corresponding desktop component known as KasperAgent and Micropsia."
+Tool,FruitFly,,FruitFly is designed to spy on mac users  .
+Tool,ftp,ftp.exe,ftp is a utility commonly available with operating systems to transfer information over the File Transfer Protocol (FTP). Adversaries can use it to transfer other tools onto a system or to exfiltrate data.
+Malware,FunnyDream,,"FunnyDream is a backdoor with multiple components that was used during the FunnyDream campaign since at least 2019, primarily for execution and exfiltration."
+Tool,FYAnti,DILLJUICE stage2,"FYAnti is a loader that has been used by menuPass since at least 2020, including to deploy QuasarRAT."
+Malware,Fysbis,,Fysbis is a Linux-based backdoor used by APT28 that dates back to at least 2014.
+Malware,Gazer,WhiteBear,Gazer is a backdoor used by Turla since at least 2016.
+Malware,Gelsemium,"Gelsevirine, Gelsenicine, Gelsemine","Gelsemium is a modular malware comprised of a dropper (Gelsemine), a loader (Gelsenicine), and main (Gelsevirine) plug-ins written using the Microsoft Foundation Class (MFC) framework. Gelsemium has been used by the Gelsemium group since at least 2014."
+Malware,GeminiDuke,,GeminiDuke is malware that was used by APT29 from 2009 to 2012.
+Tool,Get2,,"Get2 is a downloader written in C++ that has been used by TA505 to deliver FlawedGrace, FlawedAmmyy, Snatch and SDBbot."
+Malware,gh0st RAT,"Mydoor, Moudoor",gh0st RAT is a remote access tool (RAT). The source code is public and it has been used by multiple groups.
+Malware,Ginp,,Ginp is an Android banking trojan that has been used to target Spanish banks. Some of the code was taken directly from Anubis.
+Tool,GLASSTOKEN,,GLASSTOKEN is a custom web shell used by threat actors during Cutting Edge to execute commands on compromised Ivanti Secure Connect VPNs.
+Malware,GLOOXMAIL,Trojan.GTALK,GLOOXMAIL is malware used by APT1 that mimics legitimate Jabber/XMPP traffic.
+Tool,Gold Dragon,,"Gold Dragon is a Korean-language, data gathering implant that was first observed in the wild in South Korea in July 2017. Gold Dragon was used along with Brave Prince and RunningRAT in operations targeting organizations associated with the 2018 Pyeongchang Winter Olympics."
+Malware,Golden Cup,,Golden Cup is Android spyware that has been used to target World Cup fans.
+Malware,GoldenEagle,,"GoldenEagle is a piece of Android malware that has been used in targeting of Uyghurs, Muslims, Tibetans, individuals in Turkey, and individuals in China. Samples have been found as early as 2012."
+Malware,GoldenSpy,,"GoldenSpy is a backdoor malware which has been packaged with legitimate tax preparation software. GoldenSpy was discovered targeting organizations in China, being delivered with the ""Intelligent Tax"" software suite which is produced by the Golden Tax Department of Aisino Credit Information Co. and required to pay local taxes."
+Malware,GoldFinder,,"GoldFinder is a custom HTTP tracer tool written in Go that logs the route a packet takes between a compromised network and a C2 server. It can be used to inform  threat actors of potential points of discovery or logging of their actions, including C2 related to other malware. GoldFinder was discovered in early 2021 during an investigation into the SolarWinds Compromise by APT29."
+Malware,GoldMax,SUNSHUTTLE,"GoldMax is a second-stage C2 backdoor written in Go with Windows and Linux variants that are nearly identical in functionality. GoldMax was discovered in early 2021 during the investigation into the SolarWinds Compromise, and has likely been used by APT29 since at least mid-2019. GoldMax uses multiple defense evasion techniques, including avoiding virtualization execution and masking malicious traffic."
+Malware,GolfSpy,,GolfSpy is Android spyware deployed by the group Bouncing Golf.
+Malware,Gooligan,Ghost Push,Gooligan is a malware family that runs privilege escalation exploits on Android devices and then uses its escalated privileges to steal authentication tokens that can be used to access data from many Google applications. Gooligan has been described as part of the Ghost Push Android malware family.
+Malware,Goopy,,Goopy is a Windows backdoor and Trojan used by APT32 and shares several similarities to another backdoor used by the group (Denis). Goopy is named for its impersonation of the legitimate Google Updater executable.
+Malware,GPlayed,,GPlayed is an Android trojan with a broad range of capabilities.
+Malware,Grandoreiro,,"Grandoreiro is a banking trojan written in Delphi that was first observed in 2016 and uses a Malware-as-a-Service (MaaS) business model. Grandoreiro has confirmed victims in Brazil, Mexico, Portugal, and Spain."
+Malware,GravityRAT,,"GravityRAT is a remote access tool (RAT) and has been in ongoing development since 2016. The actor behind the tool remains unknown, but two usernames have been recovered that link to the author, which are ""TheMartian"" and ""The Invincible."" According to the National Computer Emergency Response Team (CERT) of India, the malware has been identified in attacks against organization and entities in India."
+Malware,Green Lambert,,"Green Lambert is a modular backdoor that security researchers assess has been used by an advanced threat group referred to as Longhorn and The Lamberts. First reported in 2017, the Windows variant of Green Lambert may have been used as early as 2008; a macOS version was uploaded to a multiscanner service in September 2014."
+Malware,GreyEnergy,,GreyEnergy is a backdoor written in C and compiled in Visual Studio. GreyEnergy shares similarities with the BlackEnergy malware and is thought to be the successor of it.
+Malware,GRIFFON,,GRIFFON is a JavaScript backdoor used by FIN7.
+Malware,GrimAgent,,GrimAgent is a backdoor that has been used before the deployment of Ryuk ransomware since at least 2020; it is likely used by FIN6 and Wizard Spider.
+Tool,gsecdump,,gsecdump is a publicly-available credential dumper used to obtain password hashes and LSA secrets from Windows operating systems.
+Malware,GuLoader,,"GuLoader is a file downloader that has been used since at least December 2019 to distribute a variety of remote administration tool (RAT) malware, including NETWIRE, Agent Tesla, NanoCore, FormBook, and Parallax RAT."
+Malware,Gustuff,,Gustuff is mobile malware designed to steal users' banking and virtual currency credentials.
+Malware,H1N1,,"H1N1 is a malware variant that has been distributed via a campaign using VBA macros to infect victims. Although it initially had only loader capabilities, it has evolved to include information-stealing functionality."
+Tool,Hacking Team UEFI Rootkit,,Hacking Team UEFI Rootkit is a rootkit developed by the company Hacking Team as a method of persistence for remote access software.
+Malware,HALFBAKED,,HALFBAKED is a malware family consisting of multiple components intended to establish persistence in victim networks.
+Malware,HAMMERTOSS,"HammerDuke, NetDuke",HAMMERTOSS is a backdoor that was used by APT29 in 2015.
+Malware,Hancitor,Chanitor,Hancitor is a downloader that has been used by Pony and other information stealing malware.
+Tool,HAPPYWORK,,HAPPYWORK is a downloader used by APT37 to target South Korean government and financial victims in November 2016.
+Malware,HARDRAIN,,HARDRAIN is a Trojan malware variant reportedly used by the North Korean government.
+Tool,Havij,,Havij is an automatic SQL Injection tool distributed by the Iranian ITSecTeam security company. Havij has been used by penetration testers and adversaries.
+Malware,HAWKBALL,,HAWKBALL is a backdoor that was observed in targeting of the government sector in Central Asia.
+Malware,hcdLoader,,hcdLoader is a remote access tool (RAT) that has been used by APT18.
+Malware,HDoor,Custom HDoor,HDoor is malware that has been customized and used by the Naikon group.
+Malware,HELLOKITTY,,"HELLOKITTY is a ransomware written in C++  that shares similar code structure and functionality with DEATHRANSOM and FIVEHANDS. HELLOKITTY has been used since at least 2020, targets have included a Polish video game developer and a Brazilian electric power company."
+Malware,Helminth,,"Helminth is a backdoor that has at least two variants - one written in VBScript and PowerShell that is delivered via a macros in Excel spreadsheets, and one that is a standalone Windows executable."
+Malware,HenBox,,"HenBox is Android malware that attempts to only execute on Xiaomi devices running the MIUI operating system. HenBox has primarily been used to target Uyghurs, a minority Turkic ethnic group."
+Tool,HermeticWiper,"Trojan.Killdisk, DriveSlayer","HermeticWiper is a data wiper that has been used since at least early 2022, primarily against Ukraine with additional activity observed in Latvia and Lithuania. Some sectors targeted include government, financial, defense, aviation, and IT services."
+Malware,HermeticWizard,,HermeticWizard is a worm that has been used to spread HermeticWiper in attacks against organizations in Ukraine since at least 2022.
+Malware,Heyoka Backdoor,,Heyoka Backdoor is a custom backdoor--based on the Heyoka open source exfiltration tool--that  has been used by Aoqin Dragon since at least 2013.
+Malware,Hi-Zor,,Hi-Zor is a remote access tool (RAT) that has characteristics similar to Sakula. It was used in a campaign named INOCNATION.
+Malware,HiddenWasp,,HiddenWasp is a Linux-based Trojan used to target systems for remote control. It comes in the form of a statically linked ELF binary with stdlibc++.
+Malware,HIDEDRV,,HIDEDRV is a rootkit used by APT28. It has been deployed along with Downdelph to execute and hide that malware.
+Malware,Hikit,,Hikit is malware that has been used by Axiom for late-stage persistence and exfiltration after the initial compromise.
+Malware,HilalRAT,,"HilalRAT is a remote access-capable Android malware, developed and used by UNC788.   HilalRAT is capable of collecting data, such as device location, call logs, etc., and is capable of executing actions, such as activating a device's camera and microphone."
+Malware,Hildegard,,Hildegard is malware that targets misconfigured kubelets for initial access and runs cryptocurrency miner operations. The malware was first observed in January 2021. The TeamTNT activity group is believed to be behind Hildegard.
+Malware,HOMEFRY,,HOMEFRY is a 64-bit Windows password dumper/cracker that has previously been used in conjunction with other Leviathan backdoors.
+Malware,HOPLIGHT,,HOPLIGHT is a backdoor Trojan that has reportedly been used by the North Korean government.
+Malware,Hornbill,,"Hornbill is one of two mobile malware families known to be used by the APT Confucius. Analysis suggests that Hornbill was first active in early 2018. While Hornbill and Sunbird overlap in core capabilities, Hornbill has tools and behaviors suggesting more passive reconnaissance."
+Malware,HotCroissant,,"HotCroissant is a remote access trojan (RAT) attributed by U.S. government entities to malicious North Korean government cyber activity, tracked collectively as HIDDEN COBRA. HotCroissant shares numerous code similarities with Rifdoor."
+Tool,HTRAN,HUC Packet Transmit Tool,HTRAN is a tool that proxies connections through intermediate hops and aids users in disguising their true geographical location. It can be used by adversaries to hide their location when interacting with the victim networks.
+Malware,HTTPBrowser,"Token Control, HttpDump",HTTPBrowser is malware that has been used by several threat groups.   It is believed to be of Chinese origin.
+Malware,httpclient,,"httpclient is malware used by Putter Panda. It is a simple tool that provides a limited range of functionality, suggesting it is likely used as a second-stage or supplementary/backup tool."
+Malware,HUI Loader,,"HUI Loader is a custom DLL loader that has been used since at least 2015 by China-based threat groups including Cinnamon Tempest and menuPass to deploy malware on compromised hosts. HUI Loader has been observed in campaigns loading SodaMaster, PlugX, Cobalt Strike, Komplex, and several strains of ransomware."
+Malware,HummingBad,,"HummingBad is a family of Android malware that generates fraudulent advertising revenue and has the ability to obtain root access on older, vulnerable versions of Android."
+Malware,HummingWhale,,HummingWhale is an Android malware family that performs ad fraud.
+Malware,Hydraq,"Roarur, MdmBot, HomeUnix, Homux, HidraQ, HydraQ, McRat, Aurora, 9002 RAT","Hydraq is a data-theft trojan first used by Elderwood in the 2009 Google intrusion known as Operation Aurora, though variations of this trojan have been used in more recent campaigns by other Chinese actors, possibly including APT17."
+Malware,HyperBro,,HyperBro is a custom in-memory backdoor used by Threat Group-3390.
+Malware,HyperStack,,HyperStack is a RPC-based backdoor used by Turla since at least 2018. HyperStack has similarities to other backdoors used by Turla including Carbon.
+Malware,IceApple,,"IceApple is a modular Internet Information Services (IIS) post-exploitation framework, that has been used since at least 2021 against the technology, academic, and government sectors."
+Malware,IcedID,,IcedID is a modular banking malware designed to steal financial information that has been observed in the wild since at least 2017.  IcedID  has been downloaded by Emotet in multiple campaigns.
+Tool,ifconfig,,ifconfig is a Unix-based utility used to gather information about and interact with the TCP/IP settings on a system.
+Tool,iKitten,OSX/MacDownloader,iKitten is a macOS exfiltration agent  .
+Malware,Imminent Monitor,,"Imminent Monitor was a commodity remote access tool (RAT) offered for sale from 2012 until 2019, when an operation was conducted to take down the Imminent Monitor infrastructure. Various cracked versions and variations of this RAT are still in circulation."
+Tool,Impacket,,"Impacket is an open source collection of modules written in Python for programmatically constructing and manipulating network protocols. Impacket contains several tools for remote service execution, Kerberos manipulation, Windows credential dumping, packet sniffing, and relay attacks."
+Malware,INCONTROLLER,PIPEDREAM,"INCONTROLLER is custom malware that includes multiple modules tailored towards ICS devices and technologies, including Schneider Electric and Omron PLCs as well as OPC UA, Modbus, and CODESYS protocols. INCONTROLLER has the ability to discover specific devices, download logic on the devices, and exploit platform-specific vulnerabilities. As of September 2022, some security researchers assessed INCONTROLLER was developed by CHERNOVITE."
+Malware,Industroyer,"CRASHOVERRIDE, Win32/Industroyer","Industroyer is a sophisticated malware framework designed to cause an impact to the working processes of Industrial Control Systems (ICS), specifically components used in electrical substations. Industroyer was used in the attacks on the Ukrainian power grid in December 2016. This is the first publicly known malware specifically designed to target and impact operations in the electric grid."
+Malware,Industroyer2,,"Industroyer2 is a compiled and static piece of malware that has the ability to communicate over the IEC-104 protocol. It is similar to the IEC-104 module found in Industroyer. Security researchers assess that Industroyer2 was designed to cause impact to high-voltage electrical substations. The initial Industroyer2 sample was compiled on 03/23/2022 and scheduled to execute on 04/08/2022, however it was discovered before deploying, resulting in no impact."
+Malware,InnaputRAT,,InnaputRAT is a remote access tool that can exfiltrate files from a victim’s machine. InnaputRAT has been seen out in the wild since 2016.
+Malware,INSOMNIA,,INSOMNIA is spyware that has been used by the group Evil Eye.
+Malware,InvisiMole,,InvisiMole is a modular spyware program that has been used by the InvisiMole Group since at least 2013. InvisiMole has two backdoor modules called RC2FM and RC2CL that are used to perform post-exploitation activities. It has been discovered on compromised victims in the Ukraine and Russia. Gamaredon Group infrastructure has been used to download and execute InvisiMole against a small number of victims.
+Tool,Invoke-PSImage,,"Invoke-PSImage takes a PowerShell script and embeds the bytes of the script into the pixels of a PNG image. It generates a one liner for executing either from a file of from the web. Example of usage is embedding the PowerShell code from the Invoke-Mimikatz module and embed it into an image file. By calling the image file from a macro for example, the macro will download the picture and execute the PowerShell code, which in this case will dump the passwords."
+Tool,ipconfig,,"ipconfig is a Windows utility that can be used to find information about a system's TCP/IP, DNS, DHCP, and adapter configuration."
+Tool,IronNetInjector,,IronNetInjector is a Turla toolchain that utilizes scripts from the open-source IronPython implementation of Python with a .NET injector to drop one or more payloads including ComRAT.
+Malware,ISMInjector,,"ISMInjector is a Trojan used to install another OilRig backdoor, ISMAgent."
+Malware,Ixeshe,,Ixeshe is a malware family that has been used since at least 2009 against targets in East Asia.
+Malware,Janicab,,Janicab is an OS X trojan that relied on a valid developer ID and oblivious users to install it.
+Malware,Javali,,"Javali is a banking trojan that has targeted Portuguese and Spanish-speaking countries since 2017, primarily focusing on customers of financial institutions in Brazil and Mexico."
+Malware,JCry,,JCry is ransomware written in Go. It was identified as apart of the #OpJerusalem 2019 campaign.
+Malware,JHUHUGIT,"Trojan.Sofacy, Seduploader, JKEYSKW, Sednit, GAMEFISH, SofacyCarberp",JHUHUGIT is malware used by APT28. It is based on Carberp source code and serves as reconnaissance malware.
+Malware,JPIN,,JPIN is a custom-built backdoor family used by PLATINUM. Evidence suggests developers of JPIN and Dipsind code bases were related in some way.
+Malware,jRAT,"JSocket, AlienSpy, Frutas, Sockrat, Unrecom, jFrutas, Adwind, jBiFrost, Trojan.Maljava","jRAT is a cross-platform, Java-based backdoor originally available for purchase in 2012. Variants of jRAT have been distributed via a software-as-a-service platform, similar to an online subscription model."
+Malware,JSS Loader,,JSS Loader is Remote Access Trojan (RAT) with .NET and C++ variants that has been used by FIN7 since at least 2020.
+Malware,Judy,,Judy is auto-clicking adware that was distributed through multiple apps in the Google Play Store.
+Malware,KARAE,,KARAE is a backdoor typically used by APT37 as first-stage malware.
+Malware,Kasidet,,Kasidet is a backdoor that has been dropped by using malicious VBA macros.
+Malware,Kazuar,,"Kazuar is a fully featured, multi-platform backdoor Trojan written using the Microsoft .NET framework."
+Malware,Kerrdown,,Kerrdown is a custom downloader that has been used by APT32 since at least 2018 to install spyware from a server on the victim's network.
+Malware,Kessel,,"Kessel is an advanced version of OpenSSH which acts as a custom backdoor, mainly acting to steal credentials and function as a bot. Kessel has been active since its C2 domain began resolving in August 2018."
+Malware,Kevin,,"Kevin is a backdoor implant written in C++ that has been used by HEXANE since at least June 2020, including in operations against organizations in Tunisia."
+Malware,KeyBoy,,KeyBoy is malware that has been used in targeted campaigns against members of the Tibetan Parliament in 2016.
+Malware,Keydnap,OSX/Keydnap,This piece of malware steals the content of the user's keychain while maintaining a permanent backdoor  .
+Malware,KEYMARBLE,,KEYMARBLE is a Trojan that has reportedly been used by the North Korean government.
+Malware,KEYPLUG,KEYPLUG.LINUX,"KEYPLUG is a modular backdoor written in C++, with Windows and Linux variants, that has been used by APT41 since at least June 2021."
+Malware,KeyRaider,,KeyRaider is malware that steals Apple account credentials and other data from jailbroken iOS devices. It also has ransomware functionality.
+Malware,KGH_SPY,,"KGH_SPY is a modular suite of tools used by Kimsuky for reconnaissance, information stealing, and backdoor capabilities. KGH_SPY derived its name from PDB paths and internal names found in samples containing ""KGH""."
+Malware,KillDisk,"Win32/KillDisk.NBI, Win32/KillDisk.NBH, Win32/KillDisk.NBD, Win32/KillDisk.NBC, Win32/KillDisk.NBB",KillDisk is a disk-wiping tool designed to overwrite files with random data to render the OS unbootable. It was first observed as a component of BlackEnergy malware during cyber attacks against Ukraine in 2015. KillDisk has since evolved into stand-alone malware used by a variety of threat actors against additional targets in Europe and Latin America; in 2016 a ransomware component was also incorporated into some KillDisk variants.
+Malware,Kinsing,,Kinsing is Golang-based malware that runs a cryptocurrency miner and attempts to spread itself to other hosts in the victim environment.
+Malware,Kivars,,"Kivars is a modular remote access tool (RAT), derived from the Bifrost RAT, that was used by BlackTech in a 2010 campaign."
+Malware,Koadic,,"Koadic is a Windows post-exploitation framework and penetration testing tool that is publicly available on GitHub. Koadic has several options for staging payloads and creating implants, and performs most of its operations using Windows Script Host."
+Malware,Kobalos,,"Kobalos is a multi-platform backdoor that can be used against Linux, FreeBSD, and Solaris. Kobalos has been deployed against high profile targets, including high-performance computers, academic servers, an endpoint security vendor, and a large internet service provider; it has been found in Europe, North America, and Asia. Kobalos was first identified in late 2019."
+Tool,KOCTOPUS,,"KOCTOPUS's batch variant is loader used by LazyScripter since 2018 to launch Octopus and Koadic and, in some cases, QuasarRAT. KOCTOPUS also has a VBA variant that has the same functionality as the batch version."
+Malware,Komplex,,Komplex is a backdoor that has been used by APT28 on OS X and appears to be developed in a similar manner to XAgentOSX  .
+Malware,KOMPROGO,,"KOMPROGO is a signature backdoor used by APT32 that is capable of process, file, and registry management."
+Malware,KONNI,,"KONNI is a remote access tool that security researchers assess has been used by North Korean cyber actors since at least 2014. KONNI has significant code overlap with the NOKKI malware family, and has been linked to several suspected North Korean campaigns targeting political organizations in Russia, East Asia, Europe and the Middle East; there is some evidence potentially linking KONNI to APT37."
+Tool,KOPILUWAK,,KOPILUWAK is a JavaScript-based reconnaissance tool that has been used for victim profiling and C2 since at least 2017.
+Malware,Kwampirs,,Kwampirs is a backdoor Trojan used by Orangeworm. Kwampirs has been found on machines which had software installed for the use and control of high-tech imaging devices such as X-Ray and MRI machines. Kwampirs has multiple technical overlaps with Shamoon based on reverse engineering analysis.
+Malware,LaZagne,,"LaZagne is a post-exploitation, open-source tool used to recover stored passwords on a system. It has modules for Windows, Linux, and OSX, but is mainly focused on Windows systems. LaZagne is publicly available on GitHub."
+Malware,LightNeuron,,LightNeuron is a sophisticated backdoor that has targeted Microsoft Exchange servers since at least 2014. LightNeuron has been used by Turla to target diplomatic and foreign affairs-related organizations. The presence of certain strings in the malware suggests a Linux variant of LightNeuron exists.
+Tool,LIGHTWIRE,,LIGHTWIRE is a web shell written in Perl that was used during Cutting Edge to maintain access and enable command execution by imbedding into the legitimate compcheckresult.cgi component of Ivanti Secure Connect VPNs.
+Malware,Linfo,,Linfo is a rootkit trojan used by Elderwood to open a backdoor on compromised hosts.
+Malware,Linux Rabbit,,Linux Rabbit is malware that targeted Linux servers and IoT devices in a campaign lasting from August to October 2018. It shares code with another strain of malware known as Rabbot. The goal of the campaign was to install cryptocurrency miners onto the targeted servers and devices.
+Malware,LiteDuke,,"LiteDuke is a third stage backdoor that was used by APT29, primarily in 2014-2015. LiteDuke used the same dropper as PolyglotDuke, and was found on machines also compromised by MiniDuke."
+Malware,LitePower,,LitePower is a downloader and second stage malware that has been used by WIRTE since at least 2021.
+Malware,LITTLELAMB.WOOLTEA,,LITTLELAMB.WOOLTEA is a backdoor that was used by UNC5325 during Cutting Edge to deploy malware on targeted Ivanti Connect Secure VPNs and to establish persistence across system upgrades and patches.
+Malware,Lizar,Tirion,Lizar is a modular remote access tool written using the .NET Framework that shares structural similarities to Carbanak. It has likely been used by FIN7 since at least February 2021.
+Malware,LockerGoga,,"LockerGoga is ransomware that was first reported in January 2019, and has been tied to various attacks on European companies, including industrial and manufacturing firms."
+Tool,LoFiSe,,LoFiSe has been used by ToddyCat since at least 2023 to identify and collect files of interest on targeted systems.
+Tool,LoJax,,LoJax is a UEFI rootkit used by APT28 to persist remote access software on targeted systems.
+Malware,Lokibot,,"Lokibot is a widely distributed information stealer that was first reported in 2015. It is designed to steal sensitive information such as usernames, passwords, cryptocurrency wallets, and other credentials. Lokibot can also create a backdoor into infected systems to allow an attacker to install additional payloads."
+Malware,LookBack,,LookBack is a remote access trojan written in C++ that was used against at least three US utility companies in July 2019. The TALONITE activity group has been observed using LookBack.
+Tool,LoudMiner,,LoudMiner is a cryptocurrency miner which uses virtualization software to siphon system resources. The miner has been bundled with pirated copies of Virtual Studio Technology (VST) for Windows and macOS.
+Malware,LOWBALL,,LOWBALL is malware used by admin@338. It was used in August 2015 in email messages targeting Hong Kong-based media organizations.
+Tool,Lslsass,,Lslsass is a publicly-available tool that can dump active logon session password hashes from the lsass process.
+Malware,Lucifer,,Lucifer is a crypto miner and DDoS hybrid malware that leverages well-known exploits to spread laterally on Windows platforms.
+Malware,Lurid,Enfal,"Lurid is a malware family that has been used by several groups, including PittyTiger, in targeted attacks as far back as 2006."
+Malware,Machete,Pyark,Machete is a cyber espionage toolset used by Machete. It is a Python-based backdoor targeting Windows machines that was first observed in 2010.
+Malware,MacMa,"OSX.CDDS, DazzleSpy",MacMa is a macOS-based backdoor with a large set of functionalities to control and exfiltrate files from a compromised computer. MacMa has been observed in the wild since November 2021.
+Malware,macOS.OSAMiner,,"macOS.OSAMiner is a Monero mining trojan that was first observed in 2018; security researchers assessed macOS.OSAMiner may have been circulating since at least 2015. macOS.OSAMiner is known for embedding one run-only AppleScript into another, which helped the malware evade full analysis for five years due to a lack of Apple event (AEVT) analysis tools."
+Malware,MacSpy,,MacSpy is a malware-as-a-service offered on the darkweb  .
+Tool,Mafalda,,Mafalda is a flexible interactive implant that has been used by Metador. Security researchers assess the Mafalda name may be inspired by an Argentinian cartoon character that has been popular as a means of political commentary since the 1960s.
+Tool,MailSniper,,"MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used by a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain."
+Tool,Mandrake,"oxide, briar, ricinus, darkmatter","Mandrake is a sophisticated Android espionage platform that has been active in the wild since at least 2016. Mandrake is very actively maintained, with sophisticated features and attacks that are executed with surgical precision."
+Malware,Marcher,,Marcher is Android malware that is used for financial fraud.
+Malware,MarkiRAT,,MarkiRAT is a remote access Trojan (RAT) compiled with Visual Studio that has been used by Ferocious Kitten since at least 2015.
+Malware,Matryoshka,,"Matryoshka is a malware framework used by CopyKittens that consists of a dropper, loader, and RAT. It has multiple versions; v1 was seen in the wild from July 2016 until January 2017. v2 has fewer commands and other minor differences."
+Malware,MazarBOT,,MazarBOT is Android malware that was distributed via SMS in Denmark in 2016.
+Malware,Maze,,"Maze ransomware, previously known as ""ChaCha"", was discovered in May 2019. In addition to encrypting files on victim machines for impact, Maze operators conduct information stealing campaigns prior to encryption and post the information online to extort affected companies."
+Malware,MCMD,,MCMD is a remote access tool that provides remote command shell capability used by Dragonfly 2.0.
+Malware,MechaFlounder,,MechaFlounder is a python-based remote access tool (RAT) that has been used by APT39. The payload uses a combination of actor developed code and code snippets freely available online in development communities.
+Tool,meek,,meek is an open-source Tor plugin that tunnels Tor traffic through HTTPS connections.
+Malware,MegaCortex,,MegaCortex is ransomware that first appeared in May 2019.  MegaCortex has mainly targeted industrial organizations.
+Malware,Melcoz,,"Melcoz is a banking trojan family built from the open source tool Remote Access PC. Melcoz was first observed in attacks in Brazil and since 2018 has spread to Chile, Mexico, Spain, and Portugal."
+Malware,MESSAGETAP,,"MESSAGETAP is a data mining malware family deployed by APT41 into telecommunications networks to monitor and save SMS traffic from specific phone numbers, IMSI numbers, or that contain specific keywords."
+Malware,metaMain,,metaMain is a backdoor used by Metador to maintain long-term access to compromised machines; it has also been used to decrypt Mafalda into memory.
+Malware,Metamorfo,Casbaneiro,Metamorfo is a Latin-American banking trojan operated by a Brazilian cybercrime group that has been active since at least April 2018. The group focuses on targeting banks and cryptocurrency services in Brazil and Mexico.
+Tool,Meteor,,"Meteor is a wiper that was used against Iranian government organizations, including Iranian Railways, the Ministry of Roads, and Urban Development systems, in July 2021. Meteor is likely a newer version of similar wipers called Stardust and Comet that were reportedly used by a group called ""Indra"" since at least 2019 against private companies in Syria."
+Malware,Micropsia,,Micropsia is a remote access tool written in Delphi.
+Malware,Milan,James,Milan is a backdoor implant based on DanBot that was written in Visual C++ and .NET. Milan has been used by HEXANE since at least June 2020.
+Tool,Mimikatz,,"Mimikatz is a credential dumper capable of obtaining plaintext Windows account logins and passwords, along with many other features that make it useful for testing the security of networks."
+Tool,MimiPenguin,,"MimiPenguin is a credential dumper, similar to Mimikatz, designed specifically for Linux platforms."
+Malware,Miner-C,,Miner-C is malware that mines victims for the Monero cryptocurrency. It has targeted FTP servers and Network Attached Storage (NAS) devices to spread.
+Malware,MiniDuke,,MiniDuke is malware that was used by APT29 from 2010 to 2015. The MiniDuke toolset consists of multiple downloader and backdoor components. The loader has been used with other MiniDuke components as well as in conjunction with CosmicDuke and PinchDuke.
+Malware,MirageFox,,"MirageFox is a remote access tool used against Windows systems. It appears to be an upgraded version of a tool known as Mirage, which is a RAT believed to originate in 2012."
+Malware,Mis-Type,,Mis-Type is a backdoor hybrid that was used in Operation Dust Storm by 2012.
+Malware,Misdat,,Misdat is a backdoor that was used in Operation Dust Storm from 2010 to 2011.
+Malware,Mispadu,,"Mispadu is a banking trojan written in Delphi that was first observed in 2019 and uses a Malware-as-a-Service (MaaS) business model. This malware is operated, managed, and sold by the Malteiro cybercriminal group. Mispadu has mainly been used to target victims in Brazil and Mexico, and has also had confirmed operations throughout Latin America and Europe."
+Malware,Mivast,,Mivast is a backdoor that has been used by Deep Panda. It was reportedly used in the Anthem breach.
+Malware,MobileOrder,,MobileOrder is a Trojan intended to compromise Android mobile devices. It has been used by Scarlet Mimic.
+Malware,MoleNet,,MoleNet is a downloader tool with backdoor capabilities that has been observed in use since at least 2019.
+Malware,Mongall,,"Mongall is a backdoor that has been used since at least 2013, including by Aoqin Dragon."
+Tool,Monokle,,"Monokle is targeted, sophisticated mobile surveillanceware. It is developed for Android, but there are some code artifacts that suggests an iOS version may be in development."
+Malware,MoonWind,,MoonWind is a remote access tool (RAT) that was used in 2016 to target organizations in Thailand.
+Malware,More_eggs,"SKID, Terra Loader, SpicyOmelette","More_eggs is a JScript backdoor used by Cobalt Group and FIN6. Its name was given based on the variable ""More_eggs"" being present in its code. There are at least two different versions of the backdoor being used, version 2.0 and version 4.4."
+Malware,Mori,,Mori is a backdoor that has been used by MuddyWater since at least January 2022.
+Malware,Mosquito,,"Mosquito is a Win32 backdoor that has been used by Turla. Mosquito is made up of three parts: the installer, the launcher, and the backdoor. The main backdoor is called CommanderDLL and is launched by the loader program."
+Tool,MURKYTOP,,MURKYTOP is a reconnaissance tool used by Leviathan.
+Malware,Mythic,,"Mythic is an open source, cross-platform post-exploitation/command and control platform. Mythic is designed to ""plug-n-play"" with various agents and communication channels. Deployed Mythic C2 servers have been observed as part of potentially malicious infrastructure."
+Malware,Naid,,Naid is a trojan used by Elderwood to open a backdoor on compromised hosts.
+Malware,NanHaiShu,,NanHaiShu is a remote access tool and JScript backdoor used by Leviathan. NanHaiShu has been used to target government and private-sector organizations that have relations to the South China Sea dispute.
+Malware,NanoCore,,NanoCore is a modular remote access tool developed in .NET that can be used to spy on victims and steal information. It has been used by threat actors since 2013.
+Tool,NativeZone,,NativeZone is the name given collectively to disposable custom Cobalt Strike loaders used by APT29 since at least 2021.
+Malware,NavRAT,,"NavRAT is a remote access tool designed to upload, download, and execute files. It has been observed in attacks targeting South Korea."
+Tool,NBTscan,,NBTscan is an open source tool that has been used by state groups to conduct internal reconnaissance within a compromised network.
+Tool,nbtstat,,nbtstat is a utility used to troubleshoot NetBIOS name resolution.
+Malware,NDiskMonitor,,NDiskMonitor is a custom backdoor written in .NET that appears to be unique to Patchwork.
+Malware,Nebulae,,Nebulae Is a backdoor that has been used by Naikon  since at least 2020.
+Malware,Neoichor,,Neoichor is C2 malware used by Ke3chang since at least 2019; similar malware families used by the group include Leeson and Numbldea.
+Malware,Nerex,,Nerex is a Trojan used by Elderwood to open a backdoor on compromised hosts.
+Tool,Net,net.exe,"The Net utility is a component of the Windows operating system. It is used in command-line operations for control of users, groups, services, and network connections."
+Malware,Net Crawler,NetC,Net Crawler is an intranet worm capable of extracting credentials using credential dumpers and spreading to systems on a network over SMB by brute forcing accounts with recovered passwords and using PsExec to execute a copy of Net Crawler.
+Malware,NETEAGLE,,"NETEAGLE is a backdoor developed by APT30 with compile dates as early as 2008. It has two main variants known as ""Scout"" and ""Norton."""
+Tool,netsh,netsh.exe,netsh is a scripting utility used to interact with networking components on local or remote systems.
+Tool,netstat,,"netstat is an operating system utility that displays active TCP connections, listening ports, and network statistics."
+Malware,NetTraveler,,"NetTraveler is malware that has been used in multiple cyber espionage campaigns for basic surveillance of victims. The earliest known samples have timestamps back to 2005, and the largest number of observed samples were created between 2010 and 2013."
+Malware,Netwalker,,Netwalker is fileless ransomware written in PowerShell and executed directly in memory.
+Tool,NETWIRE,,"NETWIRE is a publicly available, multiplatform remote administration tool (RAT) that has been used by criminal and APT groups since at least 2012."
+Malware,NGLite,,"NGLite is a backdoor Trojan that is only capable of running commands received through its C2 channel. While the capabilities are standard for a backdoor, NGLite uses a novel C2 channel that leverages a decentralized network based on the legitimate NKN to communicate between the backdoor and the actors."
+Tool,ngrok,,ngrok is a legitimate reverse proxy tool that can create a secure tunnel to servers located behind firewalls or on local machines that do not have a public IP. ngrok has been leveraged by threat actors in several campaigns including use for lateral movement and data exfiltration.
+Malware,Nidiran,Backdoor.Nidiran,Nidiran is a custom backdoor developed and used by Suckfly. It has been delivered via strategic web compromise.
+Tool,NightClub,,NightClub is a modular implant written in C++ that has been used by MoustachedBouncer since at least 2014.
+Malware,Ninja,,Ninja is a malware developed in C++ that has been used by ToddyCat to penetrate networks and control remote systems since at least 2020.  Ninja is possibly part of a post exploitation toolkit exclusively used by ToddyCat and allows multiple operators to work simultaneously on the same machine. Ninja has been used against government and military entities in Europe and Asia and observed in specific infection chains being deployed by Samurai.
+Malware,njRAT,"Njw0rm, LV, Bladabindi",njRAT is a remote access tool (RAT) that was first observed in 2012. It has been used by threat actors in the Middle East.
+Malware,NKAbuse,,"NKAbuse is a Go-based, multi-platform malware abusing NKN (New Kind of Network) technology for data exchange between peers, functioning as a potent implant, and equipped with both flooder and backdoor capabilities."
+Tool,Nltest,,Nltest is a Windows command-line utility used to list domain controllers and enumerate domain trusts.
+Malware,NOKKI,,NOKKI is a modular remote access tool. The earliest observed attack using NOKKI was in January 2018. NOKKI has significant code overlap with the KONNI malware family. There is some evidence potentially linking NOKKI to APT37.
+Malware,NotCompatible,,NotCompatible is an Android malware family that was used between at least 2014 and 2016. It has multiple variants that have become more sophisticated over time.
+Malware,NotPetya,"ExPetr, Diskcoder.C, GoldenEye, Petrwrap, Nyetya","NotPetya is malware that was used by Sandworm Team in a worldwide attack starting on June 27, 2017. While NotPetya appears as a form of ransomware, its main purpose was to destroy data and disk structures on compromised systems; the attackers never intended to make the encrypted data recoverable. As such, NotPetya may be more appropriately thought of as a form of wiper malware. NotPetya contains worm-like features to spread itself across a computer network using the SMBv1 exploits EternalBlue and EternalRomance."
+Malware,OBAD,,OBAD is an Android malware family.
+Malware,ObliqueRAT,,"ObliqueRAT is a remote access trojan, similar to Crimson, that has been in use by Transparent Tribe since at least 2020."
+Malware,OceanSalt,,"OceanSalt is a Trojan that was used in a campaign targeting victims in South Korea, United States, and Canada. OceanSalt shares code similarity with SpyNote RAT, which has been linked to APT1."
+Malware,Octopus,,Octopus is a Windows Trojan written in the Delphi programming language that has been used by Nomadic Octopus to target government organizations in Central Asia since at least 2014.
+Malware,Okrum,,Okrum is a Windows backdoor that has been seen in use since December 2016 with strong links to Ke3chang.
+Tool,OLDBAIT,Sasfis,OLDBAIT is a credential harvester used by APT28.
+Malware,OldBoot,,OldBoot is an Android malware family.
+Malware,Olympic Destroyer,,"Olympic Destroyer is malware that was used by Sandworm Team against the 2018 Winter Olympics, held in Pyeongchang, South Korea. The main purpose of the malware was to render infected computer systems inoperable. The malware leverages various native Windows utilities and API calls to carry out its destructive tasks. Olympic Destroyer has worm-like features to spread itself across a computer network in order to maximize its destructive impact."
+Malware,OnionDuke,,OnionDuke is malware that was used by APT29 from 2013 to 2015.
+Malware,OopsIE,,OopsIE is a Trojan used by OilRig to remotely execute commands as well as upload/download files to/from victims.
+Malware,Orz,AIRBREAK,Orz is a custom JavaScript backdoor used by Leviathan. It was observed being used in 2014 as well as in August 2017 when it was dropped by Microsoft Publisher files.
+Tool,OSInfo,,OSInfo is a custom tool used by APT3 to do internal discovery on a victim's computer and network.
+Malware,OSX/Shlayer,"Zshlayer, Crossrider",OSX/Shlayer is a Trojan designed to install adware on macOS that was first discovered in 2018.
+Malware,OSX_OCEANLOTUS.D,Backdoor.MacOS.OCEANLOTUS.F,"OSX_OCEANLOTUS.D is a macOS backdoor used by APT32. First discovered in 2015, APT32 has continued to make improvements using a plugin architecture to extend capabilities, specifically using .dylib files. OSX_OCEANLOTUS.D can also determine it's permission level and execute according to access type (root or user)."
+Malware,Out1,,Out1 is a remote access tool written in python and used by MuddyWater since at least 2021.
+Tool,OutSteel,,OutSteel is a file uploader and document stealer developed with the scripting language AutoIT that has been used by Ember Bear since at least March 2021.
+Tool,OwaAuth,,OwaAuth is a Web shell and credential stealer deployed to Microsoft Exchange servers that appears to be exclusively used by Threat Group-3390.
+Tool,P.A.S. Webshell,Fobushell,P.A.S. Webshell is a publicly available multifunctional PHP webshell in use since at least 2016 that provides remote access and execution on target web servers.
+Tool,P2P ZeuS,"Peer-to-Peer ZeuS, Gameover ZeuS","P2P ZeuS is a closed-source fork of the leaked version of the ZeuS botnet. It presents improvements over the leaked version, including a peer-to-peer architecture."
+Malware,P8RAT,"HEAVYPOT, GreetCake",P8RAT is a fileless malware used by menuPass to download and execute payloads since at least 2020.
+Tool,PACEMAKER,,PACEMAKER is a credential stealer that was used by APT5 as early as 2020 including activity against US Defense Industrial Base (DIB) companies.
+Malware,Pacu,,Pacu is an open-source AWS exploitation framework. The tool is written in Python and publicly available on GitHub.
+Tool,Pallas,,Pallas is mobile surveillanceware that was custom-developed by Dark Caracal.
+Malware,Pandora,,Pandora is a multistage kernel rootkit with backdoor functionality that has been in use by Threat Group-3390 since at least 2020.
+Malware,Pasam,,Pasam is a trojan used by Elderwood to open a backdoor on compromised hosts.
+Tool,Pass-The-Hash Toolkit,,"Pass-The-Hash Toolkit is a toolkit that allows an adversary to ""pass"" a password hash (without knowing the original password) to log in to systems."
+Malware,Pay2Key,,Pay2Key is a ransomware written in C++ that has been used by Fox Kitten since at least July 2020 including campaigns against Israeli companies. Pay2Key has been incorporated with a leak site to display stolen sensitive information to further pressure victims into payment.
+Tool,Pcexter,,Pcexter is an uploader that has been used by ToddyCat since at least 2023 to exfiltrate stolen files.
+Malware,PcShare,,"PcShare is an open source remote access tool that has been modified and used by Chinese threat actors, most notably during the FunnyDream campaign since late 2018."
+Malware,Pegasus for Android,Chrysaor,Pegasus for Android is the Android version of malware that has reportedly been linked to the NSO Group.   The iOS version is tracked separately under Pegasus for iOS.
+Malware,Pegasus for iOS,,Pegasus for iOS is the iOS version of malware that has reportedly been linked to the NSO Group. It has been advertised and sold to target high-value victims. The Android version is tracked separately under Pegasus for Android.
+Malware,Peirates,,Peirates is a post-exploitation Kubernetes exploitation framework with a focus on gathering service account tokens for lateral movement and privilege escalation. The tool is written in GoLang and publicly available on GitHub.
+Malware,Penquin,"Penquin 2.0, Penquin_x64",Penquin is a remote access trojan (RAT) with multiple versions used by Turla to target Linux systems since at least 2014.
+Malware,Peppy,,"Peppy is a Python-based remote access Trojan, active since at least 2012, with similarities to Crimson."
+Malware,Phenakite,,"Phenakite is a mobile malware that is used by APT-C-23 to target iOS devices. According to several reports, Phenakite was developed to fill a tooling gap and to target those who owned iPhones instead of Windows desktops or Android phones."
+Malware,PHOREAL,,PHOREAL is a signature backdoor used by APT32.
+Malware,Pillowmint,,Pillowmint is a point-of-sale malware used by FIN7 designed to capture credit card information.
+Malware,PinchDuke,,PinchDuke is malware that was used by APT29 from 2008 to 2010.
+Tool,Ping,,Ping is an operating system utility commonly used to troubleshoot and verify network connections.
+Malware,PingPull,,"PingPull is a remote access Trojan (RAT) written in Visual C++ that has been used by GALLIUM since at least June 2022. PingPull has been used to target telecommunications companies, financial institutions, and government entities in Afghanistan, Australia, Belgium, Cambodia, Malaysia, Mozambique, the Philippines, Russia, and Vietnam."
+Malware,PipeMon,,PipeMon is a multi-stage modular backdoor used by Winnti Group.
+Malware,Pisloader,,"Pisloader is a malware family that is notable due to its use of DNS as a C2 protocol as well as its use of anti-analysis tactics. It has been used by APT18 and is similar to another malware family, HTTPBrowser, that has been used by the group."
+Malware,PITSTOP,,PITSTOP is a backdoor that was deployed on compromised Ivanti Connect Secure VPNs during Cutting Edge to enable command execution and file read/write.
+Malware,PJApps,,PJApps is an Android malware family.
+Malware,PLAINTEE,,PLAINTEE is a malware sample that has been used by Rancor in targeted attacks in Singapore and Cambodia.
+Malware,PLC-Blaster,,"PLC-Blaster is a piece of proof-of-concept malware that runs on Siemens S7 PLCs. This worm locates other Siemens S7 PLCs on the network and attempts to infect them.  Once this worm has infected its target and attempted to infect other devices on the network, the worm can then run one of many modules."
+Malware,PLEAD,,"PLEAD is a remote access tool (RAT) and downloader used by BlackTech in targeted attacks in East Asia including Taiwan, Japan, and Hong Kong. PLEAD has also been referred to as TSCookie, though more recent reporting indicates likely separation between the two. PLEAD was observed in use as early as March 2017."
+Malware,PlugX,"Thoper, TVT, DestroyRAT, Sogu, Kaba, Korplug",PlugX is a remote access tool (RAT) with modular plugins that has been used by multiple threat groups.
+Malware,pngdowner,,"pngdowner is malware used by Putter Panda. It is a simple tool with limited functionality and no persistence mechanism, suggesting it is used only as a simple ""download-and-execute"" utility."
+Malware,PoetRAT,,"PoetRAT is a remote access trojan (RAT) that was first identified in April 2020. PoetRAT has been used in multiple campaigns against the private and public sectors in Azerbaijan, including ICS and SCADA systems in the energy sector. The STIBNITE activity group has been observed using the malware. PoetRAT derived its name from references in the code to poet William Shakespeare."
+Malware,PoisonIvy,"Breut, Poison Ivy, Darkmoon",PoisonIvy is a popular remote access tool (RAT) that has been used by many groups.
+Tool,PolyglotDuke,,PolyglotDuke is a downloader that has been used by APT29 since at least 2013. PolyglotDuke has been used to drop MiniDuke.
+Malware,Pony,,"Pony is a credential stealing malware, though has also been used among adversaries for its downloader capabilities. The source code for Pony Loader 1.0 and 2.0 were leaked online, leading to their use by various threat actors."
+Malware,POORAIM,,POORAIM is a backdoor used by APT37 in campaigns since at least 2014.
+Malware,PoshC2,,"PoshC2 is an open source remote administration and post-exploitation framework that is publicly available on GitHub. The server-side components of the tool are primarily written in Python, while the implants are written in PowerShell. Although PoshC2 is primarily focused on Windows implantation, it does contain a basic Python dropper for Linux/macOS."
+Malware,POSHSPY,,POSHSPY is a backdoor that has been used by APT29 since at least 2015. It appears to be used as a secondary backdoor used if the actors lost access to their primary backdoors.
+Malware,Power Loader,,"Power Loader is modular code sold in the cybercrime market used as a downloader in malware families such as Carberp, Redyms and Gapz."
+Malware,PowerDuke,,PowerDuke is a backdoor that was used by APT29 in 2016. It has primarily been delivered through Microsoft Word or Excel attachments containing malicious macros.
+Malware,PowerLess,,PowerLess is a PowerShell-based modular backdoor that has been used by Magic Hound since at least 2022.
+Tool,PowerPunch,,PowerPunch is a lightweight downloader that has been used by Gamaredon Group since at least 2021.
+Malware,PowerShower,,PowerShower is a PowerShell backdoor used by Inception for initial reconnaissance and to download and execute second stage payloads.
+Malware,POWERSOURCE,DNSMessenger,POWERSOURCE is a PowerShell backdoor that is a heavily obfuscated and modified version of the publicly available tool DNS_TXT_Pwnage. It was observed in February 2017 in spearphishing campaigns against personnel involved with United States Securities and Exchange Commission (SEC) filings at various organizations. The malware was delivered when macros were enabled by the victim and a VBS script was dropped.
+Malware,PowerSploit,,"PowerSploit is an open source, offensive security framework comprised of PowerShell modules and scripts that perform a wide range of tasks related to penetration testing such as code execution, persistence, bypassing anti-virus, recon, and exfiltration."
+Malware,PowerStallion,,"PowerStallion is a lightweight PowerShell backdoor used by Turla, possibly as a recovery access tool to install other backdoors."
+Malware,POWERSTATS,Powermud,POWERSTATS is a PowerShell-based first stage backdoor used by MuddyWater.
+Malware,POWERTON,,"POWERTON is a custom PowerShell backdoor first observed in 2018. It has typically been deployed as a late-stage backdoor by APT33. At least two variants of the backdoor have been identified, with the later version containing improved functionality."
+Tool,PowGoop,,PowGoop is a loader that consists of a DLL loader and a PowerShell-based downloader; it has been used by MuddyWater as their main loader.
+Tool,POWRUNER,,POWRUNER is a PowerShell script that sends and receives commands to and from the C2 server.
+Malware,Prestige,,"Prestige ransomware has been used by Sandworm Team since at least March 2022, including against transportation and related logistics industries in Ukraine and Poland in October 2022."
+Malware,Prikormka,,Prikormka is a malware family used in a campaign known as Operation Groundbait. It has predominantly been observed in Ukraine and was used as early as 2008.
+Malware,ProLock,,"ProLock is a ransomware strain that has been used in Big Game Hunting (BGH) operations since at least 2020, often obtaining initial access with QakBot. ProLock is the successor to PwndLocker ransomware which was found to contain a bug allowing decryption without ransom payment in 2019."
+Malware,Proton,,Proton is a macOS backdoor focusing on data theft and credential access  .
+Malware,Proxysvc,,Proxysvc is a malicious DLL used by Lazarus Group in a campaign known as Operation GhostSecret. It has appeared to be operating undetected since 2017 and was mostly observed in higher education organizations. The goal of Proxysvc is to deliver additional payloads to the target and to maintain control for the attacker. It is in the form of a DLL that can also be executed as a standalone process.
+Malware,PS1,,PS1 is a loader that was used to deploy 64-bit backdoors in the CostaRicto campaign.
+Tool,PsExec,,PsExec is a free Microsoft tool that can be used to execute a program on another computer. It is used by IT administrators and attackers.
+Malware,Psylo,,Psylo is a shellcode-based Trojan that has been used by Scarlet Mimic. It has similar characteristics as FakeM.
+Malware,Pteranodon,Pterodo,Pteranodon is a custom backdoor used by Gamaredon Group.
+Tool,PULSECHECK,,PULSECHECK is a web shell written in Perl that was used by APT5 as early as 2020 including against Pulse Secure VPNs at US Defense Industrial Base (DIB) companies.
+Malware,PUNCHBUGGY,ShellTea,PUNCHBUGGY is a backdoor malware used by FIN8 that has been observed targeting POS networks in the hospitality industry.
+Malware,PUNCHTRACK,PSVC,PUNCHTRACK is non-persistent point of sale (POS) system malware utilized by FIN8 to scrape payment card data.
+Malware,Pupy,,"Pupy is an open source, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool.  It is written in Python and can be generated as a payload in several different ways (Windows exe, Python file, PowerShell oneliner/file, Linux elf, APK, Rubber Ducky, etc.).  Pupy is publicly available on GitHub."
+Tool,pwdump,,pwdump is a credential dumper.
+Malware,PyDCrypt,,"PyDCrypt is malware written in Python designed to deliver DCSrv. It has been used by Moses Staff since at least September 2021, with each sample tailored for its intended victim organization."
+Malware,Pysa,Mespinoza,"Pysa is a ransomware that was first used in October 2018 and has been seen to target particularly high-value finance, government and healthcare organizations."
+Malware,QakBot,"Pinkslipbot, QuackBot, QBot","QakBot is a modular banking trojan that has been used primarily by financially-motivated actors since at least 2007. QakBot is continuously maintained and developed and has evolved from an information stealer into a delivery agent for ransomware, most notably ProLock and Egregor."
+Malware,QUADAGENT,,QUADAGENT is a PowerShell backdoor used by OilRig.
+Malware,QuasarRAT,xRAT,"QuasarRAT is an open-source, remote access tool that has been publicly available on GitHub since at least 2014. QuasarRAT is developed in the C# language."
+Malware,QUIETCANARY,Tunnus,QUIETCANARY is a backdoor tool written in .NET that has been used since at least 2022 to gather and exfiltrate data from victim networks.
+Malware,QUIETEXIT,,"QUIETEXIT is a novel backdoor, based on the open-source Dropbear SSH client-server software, that has been used by APT29 since at least 2021. APT29 has deployed QUIETEXIT on opaque network appliances that typically don't support antivirus or endpoint detection and response tools within a victim environment."
+Tool,QuietSieve,,QuietSieve is an information stealer that has been used by Gamaredon Group since at least 2021.
+Malware,Ragnar Locker,,Ragnar Locker is a ransomware that has been in use since at least December 2019.
+Tool,Raindrop,,Raindrop is a loader used by APT29 that was discovered on some victim machines during investigations related to the SolarWinds Compromise. It was discovered in January 2021 and was likely used since at least May 2020.
+Malware,RainyDay,,RainyDay is a backdoor tool that has been used by Naikon since at least 2020.
+Malware,Ramsay,,"Ramsay is an information stealing malware framework designed to collect and exfiltrate sensitive documents, including from air-gapped systems. Researchers have identified overlaps between Ramsay and the Darkhotel-associated Retro malware."
+Tool,RAPIDPULSE,,RAPIDPULSE is a web shell that exists as a modification to a legitimate Pulse Secure file that has been used by APT5 since at least 2021.
+Malware,RARSTONE,,RARSTONE is malware used by the Naikon group that has some characteristics similar to PlugX.
+Tool,RATANKBA,,"RATANKBA is a remote controller tool used by Lazarus Group. RATANKBA has been used in attacks targeting financial institutions in Poland, Mexico, Uruguay, the United Kingdom, and Chile. It was also seen used against organizations related to telecommunications, management consulting, information technology, insurance, aviation, and education. RATANKBA has a graphical user interface to allow the attacker to issue jobs to perform on the infected machines."
+Tool,RawDisk,,"RawDisk is a legitimate commercial driver from the EldoS Corporation that is used for interacting with files, disks, and partitions. The driver allows for direct modification of data on a local computer's hard drive. In some cases, the tool can enact these raw disk modifications from user-mode processes, circumventing Windows operating system security features."
+Malware,RawPOS,"FIENDCRY, DUEBREW, DRIFTWOOD","RawPOS is a point-of-sale (POS) malware family that searches for cardholder data on victims. It has been in use since at least 2008.    FireEye divides RawPOS into three components: FIENDCRY, DUEBREW, and DRIFTWOOD."
+Malware,Rclone,,"Rclone is a command line program for syncing files with cloud storage services such as Dropbox, Google Drive, Amazon S3, and MEGA. Rclone has been used in a number of ransomware campaigns, including those associated with the Conti and DarkSide Ransomware-as-a-Service operations."
+Malware,RCSAndroid,,RCSAndroid is Android malware.
+Malware,RCSession,,RCSession is a backdoor written in C++ that has been in use since at least 2018 by Mustang Panda and by Threat Group-3390 (Type II Backdoor).
+Malware,RDAT,,RDAT is a backdoor used by the suspected Iranian threat group OilRig. RDAT was originally identified in 2017 and targeted companies in the telecommunications sector.
+Tool,RDFSNIFFER,,RDFSNIFFER is a module loaded by BOOSTWRITE which allows an attacker to monitor and tamper with legitimate connections made via an application designed to provide visibility and system management capabilities to remote IT techs.
+Malware,Reaver,,"Reaver is a malware family that has been in the wild since at least late 2016. Reporting indicates victims have primarily been associated with the ""Five Poisons,"" which are movements the Chinese government considers dangerous. The type of malware is rare due to its final payload being in the form of Control Panel items."
+Malware,Red Alert 2.0,,Red Alert 2.0 is a banking trojan that masquerades as a VPN client.
+Malware,RedDrop,,RedDrop is an Android malware family that exfiltrates sensitive data from devices.
+Malware,RedLeaves,BUGJUICE,RedLeaves is a malware family used by menuPass. The code overlaps with PlugX and may be based upon the open source tool Trochilus.
+Tool,Reg,reg.exe,"Reg is a Windows utility used to interact with the Windows Registry. It can be used at the command-line interface to query, add, modify, and remove information."
+Tool,RegDuke,,RegDuke is a first stage implant written in .NET and used by APT29 since at least 2017. RegDuke has been used to control a compromised machine when control of other implants on the machine was lost.
+Malware,Regin,,"Regin is a malware platform that has targeted victims in a range of industries, including telecom, government, and financial institutions. Some Regin timestamps date back to 2003."
+Malware,Remcos,,Remcos is a closed-source tool that is marketed as a remote control and surveillance software by a company called Breaking Security. Remcos has been observed being used in malware campaigns.
+Malware,Remexi,,Remexi is a Windows-based Trojan that was developed in the C programming language.
+Tool,RemoteCMD,,RemoteCMD is a custom tool used by APT3 to execute commands on a remote system similar to SysInternal's PSEXEC functionality.
+Tool,RemoteUtilities,,RemoteUtilities is a legitimate remote administration tool that has been used by MuddyWater since at least 2021 for execution on target machines.
+Malware,Remsec,"Backdoor.Remsec, ProjectSauron",Remsec is a modular backdoor that has been used by Strider and appears to have been designed primarily for espionage purposes. Many of its modules are written in Lua.
+Tool,Responder,,"Responder is an open source tool used for LLMNR, NBT-NS and MDNS poisoning, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication."
+Malware,Revenge RAT,,Revenge RAT is a freely available remote access tool written in .NET (C#).
+Malware,REvil,"Sodin, Sodinokibi","REvil is a ransomware family that has been linked to the GOLD SOUTHFIELD group and operated as ransomware-as-a-service (RaaS) since at least April 2019. REvil, which as been used against organizations in the manufacturing, transportation, and electric sectors, is highly configurable and shares code similarities with the GandCrab RaaS."
+Malware,RGDoor,,RGDoor is a malicious Internet Information Services (IIS) backdoor developed in the C++ language. RGDoor has been seen deployed on webservers belonging to the Middle East government organizations. RGDoor provides backdoor access to compromised IIS servers.
+Malware,Rifdoor,,Rifdoor is a remote access trojan (RAT) that shares numerous code similarities with HotCroissant.
+Malware,Riltok,,Riltok is banking malware that uses phishing popups to collect user credentials.
+Malware,RIPTIDE,,RIPTIDE is a proxy-aware backdoor used by APT12.
+Malware,Rising Sun,,"Rising Sun is a modular backdoor that was used extensively in Operation Sharpshooter between 2017 and 2019. Rising Sun infected at least 87 organizations around the world, including nuclear, defense, energy, and financial service companies. Security researchers assessed Rising Sun included some source code from Lazarus Group's Trojan Duuzer."
+Tool,ROADTools,,ROADTools is a framework for enumerating Azure Active Directory environments. The tool is written in Python and publicly available on GitHub.
+Malware,RobbinHood,,RobbinHood is ransomware that was first observed being used in an attack against the Baltimore city government's computer network.
+Tool,ROCKBOOT,,"ROCKBOOT is a Bootkit that has been used by an unidentified, suspected China-based group."
+Tool,RogueRobin,,RogueRobin is a payload used by DarkHydrus that has been developed in PowerShell and C#.
+Malware,ROKRAT,,ROKRAT is a cloud-based remote access tool (RAT) used by APT37 to target victims in South Korea. APT37 has used ROKRAT during several campaigns from 2016 through 2021.
+Malware,RotaJakiro,,"RotaJakiro is a 64-bit Linux backdoor used by APT32. First seen in 2018, it uses a plugin architecture to extend capabilities. RotaJakiro can determine it's permission level and execute according to access type (root or user)."
+Malware,Rotexy,,"Rotexy is an Android banking malware that has evolved over several years. It was originally an SMS spyware Trojan first spotted in October 2014, and since then has evolved to contain more features, including ransomware functionality."
+Tool,route,,route can be used to find or change information within the local system IP routing table.
+Malware,Rover,,Rover is malware suspected of being used for espionage purposes. It was used in 2015 in a targeted email sent to an Indian Ambassador to Afghanistan.
+Malware,Royal,,Royal is ransomware that first appeared in early 2022;  a version that also targets ESXi servers was later observed in February 2023. Royal employs partial encryption and multiple threads to evade detection and speed encryption. Royal has been used in attacks against multiple industries worldwide--including critical infrastructure. Security researchers have identified similarities in the encryption routines and TTPs used in Royal and Conti attacks and noted a possible connection between their operators.
+Malware,RTM,Redaman,RTM is custom malware written in Delphi. It is used by the group of the same name (RTM). Newer versions of the malware have been reported publicly as Redaman.
+Malware,Rubeus,,"Rubeus is a C# toolset designed for raw Kerberos interaction that has been used since at least 2020, including in ransomware operations."
+Tool,Ruler,,"Ruler is a tool to abuse Microsoft Exchange services. It is publicly available on GitHub and the tool is executed via the command line. The creators of Ruler have also released a defensive tool, NotRuler, to detect its usage."
+Malware,RuMMS,,RuMMS is an Android malware family.
+Malware,RunningRAT,,RunningRAT is a remote access tool that appeared in operations surrounding the 2018 Pyeongchang Winter Olympics along with Gold Dragon and Brave Prince.
+Malware,Ryuk,,Ryuk is a ransomware designed to target enterprise environments that has been used in attacks since at least 2018. Ryuk shares code similarities with Hermes ransomware.
+Malware,S-Type,,S-Type is a backdoor that was used in Operation Dust Storm since at least 2013.
+Malware,S.O.V.A.,,"S.O.V.A. is an Android banking trojan that was first identified in August 2021 and has subsequently been found in a variety of applications, including banking, cryptocurrency wallet/exchange, and shopping apps. S.O.V.A., which is Russian for ""owl"", contains features not commonly found in Android malware, such as session cookie theft."
+Tool,Saint Bot,,Saint Bot is a .NET downloader that has been used by Ember Bear since at least March 2021.
+Malware,Sakula,"Sakurel, VIPER",Sakula is a remote access tool (RAT) that first surfaced in 2012 and was used in intrusions throughout 2015.
+Malware,SamSam,Samas,"SamSam is ransomware that appeared in early 2016. Unlike some ransomware, its variants have required operators to manually interact with the malware to execute some of its core components."
+Malware,Samurai,,Samurai is a passive backdoor that has been used by ToddyCat since at least 2020. Samurai allows arbitrary C# code execution and is used with multiple modules for remote administration and lateral movement.
+Malware,Sardonic,,"Sardonic is a backdoor written in C and C++ that is known to be used by FIN8, as early as August 2021 to target a financial institution in the United States. Sardonic has a plugin system that can load specially made DLLs and execute their functions."
+Tool,schtasks,schtasks.exe,schtasks is used to schedule execution of programs or scripts on a Windows system to run at a specific date and time.
+Malware,SDBbot,,SDBbot is a backdoor with installer and loader components that has been used by TA505 since at least 2019.
+Tool,SDelete,,SDelete is an application that securely deletes data in a way that makes it unrecoverable. It is part of the Microsoft Sysinternals suite of tools.
+Malware,SeaDuke,"SeaDaddy, SeaDesk",SeaDuke is malware that was used by APT29 from 2014 to 2015. It was used primarily as a secondary backdoor for victims that were already compromised with CozyCar.
+Malware,Seasalt,,Seasalt is malware that has been linked to APT1's 2010 operations. It shares some code similarities with OceanSalt.
+Tool,SEASHARPEE,,SEASHARPEE is a Web shell that has been used by OilRig.
+Malware,ServHelper,,ServHelper is a backdoor first observed in late 2018. The backdoor is written in Delphi and is typically delivered as a DLL file.
+Malware,Seth-Locker,,Seth-Locker is a ransomware with some remote control capabilities that has been in use since at least 2021.
+Malware,ShadowPad,POISONPLUG.SHADOW,"ShadowPad is a modular backdoor that was first identified in a supply chain compromise of the NetSarang software in mid-July 2017. The malware was originally thought to be exclusively used by APT41, but has since been observed to be used by various Chinese threat activity groups."
+Malware,Shamoon,Disttrack,"Shamoon is wiper malware that was first used by an Iranian group known as the ""Cutting Sword of Justice"" in 2012. Other versions known as Shamoon 2 and Shamoon 3 were observed in 2016 and 2018. Shamoon has also been seen leveraging RawDisk and Filerase to carry out data wiping tasks. Analysis has linked Shamoon with Kwampirs based on multiple shared artifacts and coding patterns. The term Shamoon is sometimes used to refer to the group using the malware as well as the malware itself."
+Malware,Shark,,Shark is a backdoor malware written in C# and .NET that is an updated version of Milan; it has been used by HEXANE since at least July 2021.
+Malware,SharkBot,,"SharkBot is a banking malware, first discovered in October 2021, that tries to initiate money transfers directly from compromised devices by abusing Accessibility Services."
+Malware,SharpDisco,,SharpDisco is a dropper developed in C# that has been used by MoustachedBouncer since at least 2020 to load malicious plugins.
+Malware,SharpStage,,SharpStage is a .NET malware with backdoor capabilities.
+Malware,SHARPSTATS,,SHARPSTATS is a .NET backdoor used by MuddyWater since at least 2019.
+Malware,ShiftyBug,,"ShiftyBug is an auto-rooting adware family of malware for Android. The family is very similar to the other Android families known as Shedun, Shuanet, Kemoge, though it is not believed all the families were created by the same group."
+Malware,ShimRat,,"ShimRat has been used by the suspected China-based adversary Mofang in campaigns targeting multiple countries and sectors including government, military, critical infrastructure, automobile, and weapons development. The name ""ShimRat"" comes from the malware's extensive use of Windows Application Shimming to maintain persistence."
+Tool,ShimRatReporter,,"ShimRatReporter is a tool used by suspected Chinese adversary Mofang to automatically conduct initial discovery. The details from this discovery are used to customize follow-on payloads (such as ShimRat) as well as set up faux infrastructure which mimics the adversary's targets. ShimRatReporter has been used in campaigns targeting multiple countries and sectors including government, military, critical infrastructure, automobile, and weapons development."
+Malware,SHIPSHAPE,,SHIPSHAPE is malware developed by APT30 that allows propagation and exfiltration of data over removable devices. APT30 may use this capability to exfiltrate data across air-gaps.
+Malware,SHOTPUT,"Backdoor.APT.CookieCutter, Pirpi",SHOTPUT is a custom backdoor used by APT3.
+Malware,SHUTTERSPEED,,SHUTTERSPEED is a backdoor used by APT37.
+Malware,Sibot,,Sibot is dual-purpose malware written in VBScript designed to achieve persistence on a compromised system as well as download and execute additional payloads. Microsoft discovered three Sibot variants in early 2021 during its investigation of APT29 and the SolarWinds Compromise.
+Malware,SideTwist,,SideTwist is a C-based backdoor that has been used by OilRig since at least 2021.
+Malware,SILENTTRINITY,,"SILENTTRINITY is an open source remote administration and post-exploitation framework primarily written in Python that includes stagers written in Powershell, C, and Boo. SILENTTRINITY was used in a 2019 campaign against Croatian government agencies by unidentified cyber actors."
+Malware,SilkBean,,SilkBean is a piece of Android surveillanceware containing comprehensive remote access tool (RAT) functionality that has been used in targeting of the Uyghur ethnic group.
+Malware,Siloscape,,Siloscape is malware that targets Kubernetes clusters through Windows containers. Siloscape was first observed in March 2021.
+Malware,SimBad,,"SimBad was a strain of adware on the Google Play Store, distributed through the RXDroider Software Development Kit. The name ""SimBad"" was derived from the fact that most of the infected applications were simulator games. The adware was controlled using an instance of the open source framework Parse Server."
+Malware,Skeleton Key,,Skeleton Key is malware used to inject false credentials into domain controllers with the intent of creating a backdoor password.  Functionality similar to Skeleton Key is included as a module in Mimikatz.
+Tool,Skidmap,,Skidmap is a kernel-mode rootkit used for cryptocurrency mining.
+Malware,Skygofree,,Skygofree is Android spyware that is believed to have been developed in 2014 and used through at least 2017.
+Tool,SLIGHTPULSE,,SLIGHTPULSE is a web shell that was used by APT5 as early as 2020 including against Pulse Secure VPNs at US Defense Industrial Base (DIB) entities.
+Tool,Sliver,,"Sliver is an open source, cross-platform, red team command and control framework written in Golang."
+Malware,SLOTHFULMEDIA,"JackOfHearts, QueenOfClubs","SLOTHFULMEDIA is a remote access Trojan written in C++ that has been used by an unidentified ""sophisticated cyber actor"" since at least January 2017. It has been used to target government organizations, defense contractors, universities, and energy companies in Russia, India, Kazakhstan, Kyrgyzstan, Malaysia, Ukraine, and Eastern Europe."
+Malware,SLOWDRIFT,,SLOWDRIFT is a backdoor used by APT37 against academic and strategic victims in South Korea.
+Malware,SLOWPULSE,,SLOWPULSE is a malware that was used by APT5 as early as 2020 including against U.S. Defense Industrial Base (DIB) companies. SLOWPULSE has several variants and can modify legitimate Pulse Secure VPN files in order to log credentials and bypass single and two-factor authentication flows.
+Malware,Small Sieve,GRAMDOOR,Small Sieve is a Telegram Bot API-based Python backdoor that has been distributed using a Nullsoft Scriptable Install System (NSIS) Installer; it has been used by MuddyWater since at least January 2022.
+Malware,Smoke Loader,Dofoil,Smoke Loader is a malicious bot application that can be used to load other malware.Smoke Loader has been seen in the wild since at least 2011 and has included a number of different payloads. It is notorious for its use of deception and self-protection. It also comes with several plug-ins.
+Malware,SMOKEDHAM,,SMOKEDHAM is a Powershell-based .NET backdoor that was first reported in May 2021; it has been used by at least one ransomware-as-a-service affiliate.
+Malware,Snip3,,"Snip3 is a sophisticated crypter-as-a-service that has been used since at least 2021 to obfuscate and load numerous strains of malware including AsyncRAT, Revenge RAT, Agent Tesla, and NETWIRE."
+Malware,SNUGRIDE,,SNUGRIDE is a backdoor that has been used by menuPass as first stage malware.
+Malware,SocGholish,FakeUpdates,"SocGholish is a JavaScript-based loader malware that has been used since at least 2017. It has been observed in use against multiple sectors globally for initial access, primarily through drive-by-downloads masquerading as software updates. SocGholish is operated by Mustard Tempest and its access has been sold to groups including Indrik Spider for downloading secondary RAT and ransomware payloads."
+Malware,Socksbot,,Socksbot is a backdoor that  abuses Socket Secure (SOCKS) proxies.
+Malware,SodaMaster,"DARKTOWN, dfls, DelfsCake",SodaMaster is a fileless malware used by menuPass to download and execute payloads since at least 2020.
+Malware,SombRAT,,"SombRAT is a modular backdoor written in C++ that has been used since at least 2019 to download and execute malicious payloads, including FIVEHANDS ransomware."
+Malware,SoreFang,,SoreFang is first stage downloader used by APT29 for exfiltration and to load other malware.
+Malware,SOUNDBITE,,SOUNDBITE is a signature backdoor used by APT32.
+Malware,SPACESHIP,,SPACESHIP is malware developed by APT30 that allows propagation and exfiltration of data over removable devices. APT30 may use this capability to exfiltrate data across air-gaps.
+Malware,Spark,,Spark is a Windows backdoor and has been in use since as early as 2017.
+Malware,SpeakUp,,SpeakUp is a Trojan backdoor that targets both Linux and OSX devices. It was first observed in January 2019.
+Malware,SpicyOmelette,,SpicyOmelette is a JavaScript based remote access tool that has been used by Cobalt Group since at least 2018.
+Tool,spwebmember,,spwebmember is a Microsoft SharePoint enumeration and data dumping tool written in .NET.
+Malware,SpyDealer,,SpyDealer is Android malware that exfiltrates sensitive data from Android devices.
+Malware,SpyNote RAT,,SpyNote RAT (Remote Access Trojan) is a family of malicious Android apps. The SpyNote RAT builder tool can be used to develop malicious apps with the malware's functionality.
+Malware,sqlmap,,sqlmap is an open source penetration testing tool that can be used to automate the process of detecting and exploiting SQL injection flaws.
+Malware,SQLRat,,SQLRat is malware that executes SQL scripts to avoid leaving traditional host artifacts. FIN7 has been observed using it.
+Malware,Squirrelwaffle,,Squirrelwaffle is a loader that was first seen in September 2021. It has been used in spam email campaigns to deliver additional malware such as Cobalt Strike and the QakBot banking trojan.
+Malware,SslMM,,SslMM is a full-featured backdoor used by Naikon that has multiple variants.
+Tool,Starloader,,Starloader is a loader component that has been observed loading Felismus and associated tools.
+Malware,STARWHALE,CANOPY,"STARWHALE is Windows Script File (WSF) backdoor that has been used by MuddyWater, possibly since at least November 2021; there is also a STARWHALE variant written in Golang with similar capabilities. Security researchers have also noted the use of STARWHALE by UNC3313, which may be associated with MuddyWater."
+Tool,STEADYPULSE,,STEADYPULSE is a web shell that infects targeted Pulse Secure VPN servers through modification of a legitimate Perl script that was used as early as 2020 including in activity against US Defense Industrial Base (DIB) entities.
+Malware,Stealth Mango,,"Stealth Mango is Android malware that has reportedly been used to successfully compromise the mobile devices of government officials, members of the military, medical professionals, and civilians. The iOS malware known as Tangelo is believed to be from the same developer."
+Malware,StoneDrill,DROPSHOT,StoneDrill is wiper malware discovered in destructive campaigns against both Middle Eastern and European targets in association with APT33.
+Malware,StreamEx,,"StreamEx is a malware family that has been used by Deep Panda since at least 2015. In 2016, it was distributed via legitimate compromised Korean websites."
+Tool,StrifeWater,,StrifeWater is a remote-access tool that has been used by Moses Staff in the initial stages of their attacks since at least November 2021.
+Malware,StrongPity,,StrongPity is an information stealing malware used by PROMETHIUM.
+Malware,Stuxnet,W32.Stuxnet,"Stuxnet was the first publicly reported piece of malware to specifically target industrial control systems devices. Stuxnet is a large and complex piece of malware that utilized multiple different behaviors including multiple zero-day vulnerabilities, a sophisticated Windows rootkit, and network infection routines. Stuxnet was discovered in 2010, with some components being used as early as November 2008."
+Tool,SUGARDUMP,,"SUGARDUMP is a proprietary browser credential harvesting tool that was used by UNC3890 during the C0010 campaign. The first known SUGARDUMP version was used since at least early 2021, a second SMTP C2 version was used from late 2021-early 2022, and a third HTTP C2 variant was used since at least April 2022."
+Malware,SUGARUSH,,"SUGARUSH is a small custom backdoor that can establish a reverse shell over TCP to a hard coded C2 address. SUGARUSH was first identified during analysis of UNC3890's C0010 campaign targeting Israeli companies, which began in late 2020."
+Malware,Sunbird,,"Sunbird is one of two mobile malware families known to be used by the APT Confucius.  Analysis suggests that Sunbird was first active in early 2017. While Sunbird and Hornbill overlap in core capabilities, Sunbird has a more extensive set of malicious features."
+Malware,SUNBURST,Solorigate,SUNBURST is a trojanized DLL designed to fit within the SolarWinds Orion software update framework. It was used by APT29 since at least February 2020.
+Malware,SUNSPOT,,SUNSPOT is an implant that injected the SUNBURST backdoor into the SolarWinds Orion software update framework. It was used by APT29 since at least February 2020.
+Tool,SUPERNOVA,,SUPERNOVA is an in-memory web shell written in .NET C#. It was discovered in November 2020 during the investigation of APT29's SolarWinds cyber operation but determined to be unrelated. Subsequent analysis suggests SUPERNOVA may have been used by the China-based threat group SPIRAL.
+Malware,SVCReady,,"SVCReady is a loader that has been used since at least April 2022 in malicious spam campaigns. Security researchers have noted overlaps between TA551 activity and SVCReady distribution, including similarities in file names, lure images, and identical grammatical errors."
+Malware,Sykipot,,Sykipot is malware that has been used in spearphishing campaigns since approximately 2007 against victims primarily in the US. One variant of Sykipot hijacks smart cards on victims.  The group using this malware has also been referred to as Sykipot.
+Malware,SynAck,,SynAck is variant of Trojan ransomware targeting mainly English-speaking users since at least fall 2017.
+Tool,SYNful Knock,,SYNful Knock is a stealthy modification of the operating system of network devices that can be used to maintain persistence within a victim's network and provide new capabilities to the adversary.
+Malware,Sys10,,Sys10 is a backdoor that was used throughout 2013 by Naikon.
+Malware,SYSCON,,SYSCON is a backdoor that has been in use since at least 2017 and has been associated with campaigns involving North Korean themes. SYSCON has been delivered by the CARROTBALL and CARROTBAT droppers.
+Tool,Systeminfo,,Systeminfo is a Windows utility that can be used to gather detailed information about a computer.
+Malware,SysUpdate,"HyperSSL, Soldier, FOCUSFJORD",SysUpdate is a backdoor written in C++ that has been used by Threat Group-3390 since at least 2020.
+Malware,T9000,,"T9000 is a backdoor that is a newer variant of the T5000 malware family, also known as Plat1. Its primary function is to gather information about the victim. It has been used in multiple targeted attacks against U.S.-based organizations."
+Malware,Taidoor,,Taidoor is a remote access trojan (RAT) that has been used by Chinese government cyber actors to maintain access on victim networks. Taidoor has primarily been used against Taiwanese government organizations since at least 2010.
+Tool,TAINTEDSCRIBE,,TAINTEDSCRIBE is a fully-featured beaconing implant integrated with command modules used by Lazarus Group. It was first reported in May 2020.
+Tool,TajMahal,,"TajMahal is a multifunctional spying framework that has been in use since at least 2014. TajMahal is comprised of two separate packages, named Tokyo and Yokohama, and can deploy up to 80 plugins."
+Malware,Tangelo,,"Tangelo is iOS malware that is believed to be from the same developers as the Stealth Mango Android malware. It is not a mobile application, but rather a Debian package that can only run on jailbroken iOS devices."
+Malware,TangleBot,,"TangleBot is SMS malware that was initially observed in September 2021, primarily targeting mobile users in the United States and Canada. TangleBot has used SMS text message lures about COVID-19 regulations and vaccines to trick mobile users into downloading the malware, similar to FluBot Android malware campaigns."
+Malware,Tarrask,,Tarrask is malware that has been used by HAFNIUM since at least August 2021. Tarrask was designed to evade digital defenses and maintain persistence by generating concealed scheduled tasks.
+Tool,Tasklist,,The Tasklist utility displays a list of applications and services with their Process IDs (PID) for all tasks running on either a local or a remote computer. It is packaged with Windows operating systems and can be executed from the command-line interface.
+Malware,TDTESS,,TDTESS is a 64-bit .NET binary backdoor used by CopyKittens.
+Tool,TEARDROP,,TEARDROP is a memory-only dropper that was discovered on some victim machines during investigations related to the SolarWinds Compromise. It was likely used by APT29 since at least May 2020.
+Tool,TERRACOTTA,,TERRACOTTA is an ad fraud botnet that has been capable of generating over 2 billion fraudulent requests per week.
+Malware,TEXTMATE,DNSMessenger,TEXTMATE is a second-stage PowerShell backdoor that is memory-resident. It was observed being used along with POWERSOURCE in February 2017.
+Malware,ThiefQuest,"MacRansom.K, EvilQuest","ThiefQuest is a virus, data stealer, and wiper that presents itself as ransomware targeting macOS systems. ThiefQuest was first seen in 2020 distributed via trojanized pirated versions of popular macOS software on Russian forums sharing torrent links. Even though ThiefQuest presents itself as ransomware, since the dynamically generated encryption key is never sent to the attacker it may be more appropriately thought of as a form of wiper malware."
+Malware,ThreatNeedle,,"ThreatNeedle is a backdoor that has been used by Lazarus Group since at least 2019 to target cryptocurrency, defense, and mobile gaming organizations.  It is considered to be an advanced cluster of Lazarus Group's Manuscrypt (a.k.a. NukeSped) malware family."
+Malware,TianySpy,,"TianySpy is a mobile malware primarily spread by SMS phishing between September 30 and October 12, 2021. TianySpy is believed to have targeted credentials associated with membership websites of major Japanese telecommunication services."
+Malware,Tiktok Pro,,Tiktok Pro is spyware that has been masquerading as the TikTok application.
+Malware,TinyTurla,,"TinyTurla is a backdoor that has been used by Turla against targets in the US, Germany, and Afghanistan since at least 2020."
+Malware,TINYTYPHON,,TINYTYPHON is a backdoor  that has been used by the actors responsible for the MONSOON campaign. The majority of its code was reportedly taken from the MyDoom worm.
+Tool,TinyZBot,,TinyZBot is a bot written in C# that was developed by Cleaver.
+Malware,Tomiris,,Tomiris is a backdoor written in Go that continuously queries its C2 server for executables to download and execute on a victim system. It was first reported in September 2021 during an investigation of a successful DNS hijacking campaign against a Commonwealth of Independent States (CIS) member. Security researchers assess there are similarities between Tomiris and GoldMax.
+Tool,Tor,,"Tor is a software suite and network that provides increased anonymity on the Internet. It creates a multi-hop proxy network and utilizes multilayer encryption to protect both the message and routing information. Tor utilizes ""Onion Routing,"" in which messages are encrypted with multiple layers of encryption; at each step in the proxy network, the topmost layer is decrypted and the contents forwarded on to the next node until it reaches its destination."
+Tool,Torisma,,Torisma is a second stage implant designed for specialized monitoring that has been used by Lazarus Group. Torisma was discovered during an investigation into the 2020 Operation North Star campaign that targeted the defense sector.
+Malware,TrailBlazer,,TrailBlazer is a modular malware that has been used by APT29 since at least 2019.
+Malware,Triada,,Triada was first reported in 2016 as a second stage malware. Later versions in 2019 appeared with new techniques and as an initial downloader of other Trojan apps.
+Malware,TrickBot,"Totbrick, TSPY_TRICKLOAD","TrickBot is a Trojan spyware program written in C++ that first emerged in September 2016 as a possible successor to Dyre. TrickBot was developed and initially used by Wizard Spider for targeting banking sites in North America, Australia, and throughout Europe; it has since been used against all sectors worldwide as part of ""big game hunting"" ransomware campaigns."
+Malware,TrickMo,,"TrickMo a 2FA bypass mobile banking trojan, most likely being distributed by TrickBot. TrickMo has been primarily targeting users located in Germany."
+Tool,Triton,"TRISIS, HatMan",Triton is an attack framework built to interact with Triconex Safety Instrumented System (SIS) controllers.
+Malware,Trojan-SMS.AndroidOS.Agent.ao,,Trojan-SMS.AndroidOS.Agent.ao is Android malware.
+Malware,Trojan-SMS.AndroidOS.FakeInst.a,,Trojan-SMS.AndroidOS.FakeInst.a is Android malware.
+Malware,Trojan-SMS.AndroidOS.OpFake.a,,Trojan-SMS.AndroidOS.OpFake.a is Android malware.
+Malware,Trojan.Karagany,"xFrost, Karagany",Trojan.Karagany is a modular remote access tool used for recon and linked to Dragonfly. The source code for Trojan.Karagany originated from Dream Loader malware which was leaked in 2010 and sold on underground forums.
+Malware,Trojan.Mebromi,,Trojan.Mebromi is BIOS-level malware that takes control of the victim before MBR.
+Malware,Truvasys,,Truvasys is first-stage malware that has been used by PROMETHIUM. It is a collection of modules written in the Delphi programming language.
+Malware,TSCookie,,TSCookie is a remote access tool (RAT) that has been used by BlackTech in campaigns against Japanese targets.. TSCookie has been referred to as PLEAD though more recent reporting indicates a separation between the two.
+Malware,Turian,,"Turian is a backdoor that has been used by BackdoorDiplomacy to target Ministries of Foreign Affairs, telecommunication companies, and charities in Africa, Europe, the Middle East, and Asia. First reported in 2021, Turian is likely related to Quarian, an older backdoor that was last observed being used in 2013 against diplomatic targets in Syria and the United States."
+Malware,TURNEDUP,,TURNEDUP is a non-public backdoor. It has been dropped by APT33's StoneDrill malware.
+Tool,Twitoor,,Twitoor is a dropper application capable of receiving commands from social media.
+Malware,TYPEFRAME,,TYPEFRAME is a remote access tool that has been used by Lazarus Group.
+Tool,UACMe,,UACMe is an open source assessment tool that contains many methods for bypassing Windows User Account Control on multiple versions of the operating system.
+Malware,UBoatRAT,,UBoatRAT is a remote access tool that was identified in May 2017.
+Malware,Umbreon,,A Linux rootkit that provides backdoor access and hides from defenders.
+Malware,Unknown Logger,,"Unknown Logger is a publicly released, free backdoor. Version 1.5 of the backdoor has been used by the actors responsible for the MONSOON campaign."
+Malware,UPPERCUT,ANEL,UPPERCUT is a backdoor that has been used by menuPass.
+Malware,Uroburos,Snake,"Uroburos is a sophisticated cyber espionage tool written in C that has been used by units within Russia's Federal Security Service (FSB) associated with the Turla toolset to collect intelligence on sensitive targets worldwide. Uroburos has several variants and has undergone nearly constant upgrade since its initial development in 2003 to keep it viable after public disclosures. Uroburos is typically deployed to external-facing nodes on a targeted network and has the ability to leverage additional tools and TTPs to further exploit an internal network. Uroburos has interoperable implants for Windows, Linux, and macOS, employs a high level of stealth in communications and architecture, and can easily incorporate new or replacement components."
+Malware,Ursnif,"Gozi-ISFB, PE_URSNIF, Dreambot","Ursnif is a banking trojan and variant of the Gozi malware observed being spread through various automated exploit kits, Spearphishing Attachments, and malicious links. Ursnif is associated primarily with data theft, but variants also include components (backdoors, spyware, file injectors, etc.) capable of a wide variety of behaviors."
+Malware,USBferry,,"USBferry is an information stealing malware and has been used by Tropic Trooper in targeted attacks against Taiwanese and Philippine air-gapped military environments. USBferry shares an overlapping codebase with YAHOYAH, though it has several features which makes it a distinct piece of malware."
+Malware,USBStealer,"USB Stealer, Win32/USBStealer",USBStealer is malware that has been used by APT28 since at least 2005 to extract information from air-gapped networks. It does not have the capability to communicate over the Internet and has been used in conjunction with ADVSTORESHELL.
+Malware,Valak,,"Valak is a multi-stage modular malware that can function as a standalone information stealer or downloader, first observed in 2019 targeting enterprises in the US and Germany."
+Tool,VaporRage,,VaporRage is a shellcode downloader that has been used by APT29 since at least 2021.
+Malware,Vasport,,Vasport is a trojan used by Elderwood to open a backdoor on compromised hosts.
+Malware,VBShower,,"VBShower is a backdoor that has been used by Inception since at least 2019. VBShower has been used as a downloader for second stage payloads, including PowerShower."
+Malware,VERMIN,,"VERMIN is a remote access tool written in the Microsoft .NET framework. It is mostly composed of original code, but also has some open source code."
+Malware,ViceLeaker,Triout,"ViceLeaker is a spyware framework, capable of extensive surveillance and data exfiltration operations, primarily targeting devices belonging to Israeli citizens."
+Tool,ViperRAT,,ViperRAT is sophisticated surveillanceware that has been in operation since at least 2015 and was used to target the Israeli Defense Force.
+Malware,Volgmer,,"Volgmer is a backdoor Trojan designed to provide covert access to a compromised system. It has been used since at least 2013 to target the government, financial, automotive, and media industries. Its primary delivery mechanism is suspected to be spearphishing."
+Tool,VPNFilter,,"VPNFilter is a multi-stage, modular platform with versatile capabilities to support both intelligence-collection and destructive cyber attack operations. VPNFilter modules such as its packet sniffer ('ps') can collect traffic that passes through an infected device, allowing the theft of website credentials and monitoring of Modbus SCADA protocols."
+Malware,WannaCry,"WanaCry, WanaCrypt, WanaCrypt0r, WCry","WannaCry is ransomware that was first seen in a global attack during May 2017, which affected more than 150 countries. It contains worm-like features to spread itself across a computer network using the SMBv1 exploit EternalBlue."
+Tool,WARPWIRE,,WARPWIRE is a Javascript credential stealer that targets plaintext passwords and usernames for exfiltration that was used during Cutting Edge to target Ivanti Connect Secure VPNs.
+Malware,WarzoneRAT,"Warzone, Ave Maria",WarzoneRAT is a malware-as-a-service remote access tool (RAT) written in C++ that has been publicly available for purchase since at least late 2018.
+Malware,WastedLocker,,"WastedLocker is a ransomware family attributed to Indrik Spider that has been used since at least May 2020. WastedLocker has been used against a broad variety of sectors, including manufacturing, information technology, and media."
+Malware,Waterbear,,"Waterbear is modular malware attributed to BlackTech that has been used primarily for lateral movement, decrypting, and triggering payloads and is capable of hiding network behaviors."
+Malware,WEBC2,,"WEBC2 is a family of backdoor malware used by APT1 as early as July 2006. WEBC2 backdoors are designed to retrieve a webpage, with commands hidden in HTML comments or special tags, from a predetermined C2 server."
+Malware,WellMail,,"WellMail is a lightweight malware written in Golang used by APT29, similar in design and structure to WellMess."
+Malware,WellMess,,WellMess is lightweight malware family with variants written in .NET and Golang that has been in use since at least 2018 by APT29.
+Tool,Wevtutil,,Wevtutil is a Windows command-line utility that enables administrators to retrieve information about event logs and publishers.
+Malware,WhisperGate,,"WhisperGate is a multi-stage wiper designed to look like ransomware that has been used against multiple government, non-profit, and information technology organizations in Ukraine since at least January 2022."
+Malware,Wiarp,,Wiarp is a trojan used by Elderwood to open a backdoor on compromised hosts.
+Tool,Windows Credential Editor,WCE,Windows Credential Editor is a password dumping tool.
+Malware,WINDSHIELD,,WINDSHIELD is a signature backdoor used by APT32.
+Tool,WindTail,,WindTail is a macOS surveillance implant used by Windshift. WindTail shares code similarities with Hack Back aka KitM OSX.
+Malware,WINERACK,,WINERACK is a backdoor used by APT37.
+Tool,Winexe,,"Winexe is a lightweight, open source tool similar to PsExec designed to allow system administrators to execute commands on remote servers.  Winexe is unique in that it is a GNU/Linux based client."
+Malware,Wingbird,,Wingbird is a backdoor that appears to be a version of commercial software FinFisher. It is reportedly used to attack individual computers instead of networks. It was used by NEODYMIUM in a May 2016 campaign.
+Malware,WinMM,,"WinMM is a full-featured, simple backdoor used by Naikon."
+Malware,Winnti for Linux,,"Winnti for Linux is a trojan, seen since at least 2015, designed specifically for targeting Linux systems. Reporting indicates the winnti malware family is shared across a number of actors including Winnti Group. The Windows variant is tracked separately under Winnti for Windows."
+Malware,Winnti for Windows,,"Winnti for Windows is a modular remote access Trojan (RAT) that has been used likely by multiple groups to carry out intrusions in various regions since at least 2010, including by one group referred to as the same name, Winnti Group.. The Linux variant is tracked separately under Winnti for Linux."
+Malware,Wiper,,Wiper is a family of destructive malware used in March 2013 during breaches of South Korean banks and media companies.
+Malware,WIREFIRE,GIFTEDVISITOR,WIREFIRE is a web shell written in Python that exists as trojanized logic to the visits.py component of Ivanti Connect Secure VPN appliances. WIREFIRE was used during Cutting Edge for downloading files and command execution.
+Malware,WireLurker,,WireLurker is a family of macOS malware that targets iOS devices connected over USB.
+Malware,WolfRAT,,WolfRAT is malware based on a leaked version of Dendroid that has primarily targeted Thai users. WolfRAT has most likely been operated by the now defunct organization Wolf Research.
+Malware,Woody RAT,,Woody RAT is a remote access trojan (RAT) that has been used since at least August 2021 against Russian organizations.
+Malware,X-Agent for Android,,"X-Agent for Android is Android malware that was placed in a repackaged version of a Ukrainian artillery targeting application. The malware reportedly retrieved general location data on where the victim device was used, and therefore could likely indicate the potential location of Ukrainian artillery.  Is it tracked separately from the CHOPSTICK."
+Malware,XAgentOSX,OSX.Sofacy,XAgentOSX is a trojan that has been used by APT28  on OS X and appears to be a port of their standard CHOPSTICK or XAgent trojan.
+Malware,Xbash,,"Xbash is a malware family that has targeted Linux and Microsoft Windows servers. The malware has been tied to the Iron Group, a threat actor group known for previous ransomware attacks. Xbash was developed in Python and then converted into a self-contained Linux ELF executable by using PyInstaller."
+Malware,Xbot,,Xbot is an Android malware family that was observed in 2016 primarily targeting Android users in Russia and Australia.
+Malware,xCaon,,"xCaon is an HTTP variant of the BoxCaon malware family that has used by IndigoZebra since at least 2014. xCaon has been used to target political entities in Central Asia, including Kyrgyzstan and Uzbekistan."
+Tool,xCmd,,xCmd is an open source tool that is similar to PsExec and allows the user to execute applications on remote systems.
+Malware,XcodeGhost,,XcodeGhost is iOS malware that infected at least 39 iOS apps in 2015 and potentially affected millions of users.
+Malware,XCSSET,OSX.DubRobber,"XCSSET is a macOS modular backdoor that targets Xcode application developers. XCSSET was first observed in August 2020 and has been used to install a backdoor component, modify browser applications, conduct collection, and provide ransomware-like encryption capabilities."
+Malware,XLoader for Android,,"XLoader for Android is a malicious Android app first observed targeting Japan, Korea, China, Taiwan, and Hong Kong in 2018. It has more recently been observed targeting South Korean users as a pornography application. It is tracked separately from the XLoader for iOS."
+Malware,XLoader for iOS,,XLoader for iOS is a malicious iOS application that is capable of gathering system information. It is tracked separately from the XLoader for Android.
+Tool,XTunnel,"Trojan.Shunnael, X-Tunnel, XAPS",XTunnel a VPN-like network proxy tool that can relay traffic between a C2 server and a victim. It was first seen in May 2013 and reportedly used by APT28 during the compromise of the Democratic National Committee.
+Malware,YAHOYAH,,YAHOYAH is a Trojan used by Tropic Trooper as a second-stage backdoor.
+Malware,YiSpecter,,"YiSpecter is a family of iOS and Android malware, first detected in November 2014, targeting users in mainland China and Taiwan. YiSpecter abuses private APIs in iOS to infect both jailbroken and non-jailbroken devices."
+Malware,yty,,"yty is a modular, plugin-based malware framework. The components of the framework are written in a variety of programming languages."
+Malware,Zebrocy,Zekapab,"Zebrocy is a Trojan that has been used by APT28 since at least November 2015. The malware comes in several programming language variants, including C++, Delphi, AutoIt, C#, VB.NET, and Golang."
+Malware,Zen,,Zen is Android malware that was first seen in 2013.
+Malware,ZergHelper,,"ZergHelper is iOS riskware that was unique due to its apparent evasion of Apple's App Store review process. No malicious functionality was identified in the app, but it presents security risks."
+Tool,Zeroaccess,,"Zeroaccess is a kernel-mode Rootkit that attempts to add victims to the ZeroAccess botnet, often for monetary gain."
+Malware,ZeroT,,"ZeroT is a Trojan used by TA459, often in conjunction with PlugX."
+Malware,Zeus Panda,,"Zeus Panda is a Trojan designed to steal banking information and other sensitive credentials for exfiltration. Zeus Panda’s original source code was leaked in 2011, allowing threat actors to use its source code as a basis for new malware variants. It is mainly used to target Windows operating systems ranging from Windows XP through Windows 10."
+Malware,ZIPLINE,,ZIPLINE is a passive backdoor that was used during Cutting Edge on compromised Secure Connect VPNs for reverse shell and proxy functionality.
+Malware,ZLib,,ZLib is a full-featured backdoor that was used as a second-stage implant during Operation Dust Storm since at least 2014. ZLib is malware and should not be confused with the legitimate compression library from which its name is derived.
+Malware,Zox,"Gresim, ZoxRPC, ZoxPNG",Zox is a remote access tool that has been used by Axiom since at least 2008.
+Malware,zwShell,,zwShell is a remote access tool (RAT) written in Delphi that has been seen in the wild since the spring of 2010 and used by threat actors during Night Dragon.
+Malware,ZxShell,Sensocode,"ZxShell is a remote administration tool and backdoor that can be downloaded from the Internet, particularly from Chinese hacker websites. It has been used since at least 2004."
+Malware,ZxxZ,,"ZxxZ is a trojan written in Visual C++ that has been used by BITTER since at least August 2021, including against Bangladeshi government personnel."

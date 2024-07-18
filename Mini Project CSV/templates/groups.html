@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Portal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div id="data-container">
+        <h1>Scraped Data</h1>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Associated groups</th>
+                    <th>Description</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be populated here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+    <script src="{{ url_for('static', filename='script.js')}}" data-endpoint="/api/data1"></script>
+</body>
+</html>
