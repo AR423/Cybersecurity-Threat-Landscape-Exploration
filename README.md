@@ -8,3 +8,5 @@ In this repository, there are 2 folders: CSV and DB, indicating the 2 methods in
 and stored them in separate csv files or separate tables in a database. The scraped data from these was then manipulated to be viewed on a local webpage using REST APIs.
 
 To view the webpages, open the folder's path in terminal on your system and run app.py. A successful execution will give a development server URL which on pasting in a browser will lead to the respective webpage.
+
+There is another functionality of automated scraping through scheduling that can be implemented in which the python script(s) scrape data and update the database regularly. The commands for the same can be seen in automated_scraping_ss.jpg in the DB folder, and are quite self-explanatory.
