@@ -1,4 +1,4 @@
-# Web_Scraping
+# Cybersecurity_Threat_Landscape_Exploration
 A web scraping mini project for cybersecurity analysis using Python performed under the guidance of RHYM technologies
 
 In this repository, there are 2 folders: CSV and DB, indicating the 2 methods in which the scraped data was displayed on the web. The python scripts scraped data from 3 URLs 
